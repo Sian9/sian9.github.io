@@ -2,17 +2,390 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>My Aviation Playground</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>My Aviation Playground | The aircraft, part by part</title>
+  <meta name="description" content="A personal aviation playground: aircraft components by ATA chapter, quizzes, CAR-66 study notes and a learning log.">
+  <meta name="theme-color" content="#04070c">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2304070c'/%3E%3Cpath d='M16 4 L19 13 L28 18 L28 20.5 L19 18 L18 25 L21.5 27.5 L21.5 29 L16 27.5 L10.5 29 L10.5 27.5 L14 25 L13 18 L4 20.5 L4 18 L13 13 Z' fill='none' stroke='%237fd8ff' stroke-width='1.6' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="preload" href="fonts/barlow-condensed-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/home.css">
+  <script>document.documentElement.classList.add('js');</script>
 </head>
 <body>
-  <div id="site-header"></div>
-  <main>
-    <h1>My Aviation Playground</h1>
-    <p>Coming soon: aircraft components, quizzes and things I'm learning.</p>
+  <a class="skip" href="#main">Skip to content</a>
+  <svg class="sprite" width="0" height="0" aria-hidden="true" focusable="false"><defs><g id="airliner" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M500 40 C517 40 536 75 540 130 L540 700 C540 780 524 850 507 905 L493 905 C476 850 460 780 460 700 L460 130 C464 75 483 40 500 40 Z" vector-effect="non-scaling-stroke" stroke-width="1.6"/>
+    <path d="M487 104 Q500 95 513 104 L510 116 Q500 110 490 116 Z" vector-effect="non-scaling-stroke" stroke-width="1.1"/>
+    <path d="M471 170 L471 690" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.45" stroke-dasharray="5 9"/>
+    <path d="M529 170 L529 690" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.45" stroke-dasharray="5 9"/>
+    <path d="M540 345 L905 530 L905 590 L645 508 L540 484 Z" vector-effect="non-scaling-stroke" stroke-width="1.6"/>
+    <path d="M460 345 L95 530 L95 590 L355 508 L460 484 Z" vector-effect="non-scaling-stroke" stroke-width="1.6"/>
+    <path d="M550 362 L898 540" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.6"/>
+    <path d="M450 362 L102 540" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.6"/>
+    <path d="M541 464 L645 488 L903 566" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.6"/>
+    <path d="M459 464 L355 488 L97 566" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.6"/>
+    <path d="M700 438.7 L700 504.6" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.45"/>
+    <path d="M300 438.7 L300 504.6" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.45"/>
+    <path d="M770 474.5 L770 525.8" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.45"/>
+    <path d="M230 474.5 L230 525.8" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.45"/>
+    <path d="M835 507.8 L835 545.4" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.45"/>
+    <path d="M165 507.8 L165 545.4" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.45"/>
+    <rect x="646" y="352" width="44" height="118" rx="20" vector-effect="non-scaling-stroke" stroke-width="1.6"/>
+    <ellipse cx="668" cy="356" rx="20" ry="7" vector-effect="non-scaling-stroke" stroke-width="1"/>
+    <circle cx="668" cy="358" r="4" vector-effect="non-scaling-stroke" stroke-width="1"/>
+    <rect x="310" y="352" width="44" height="118" rx="20" vector-effect="non-scaling-stroke" stroke-width="1.6"/>
+    <ellipse cx="332" cy="356" rx="20" ry="7" vector-effect="non-scaling-stroke" stroke-width="1"/>
+    <circle cx="332" cy="358" r="4" vector-effect="non-scaling-stroke" stroke-width="1"/>
+    <path d="M533 790 L690 862 L690 888 L533 852 Z" vector-effect="non-scaling-stroke" stroke-width="1.6"/>
+    <path d="M467 790 L310 862 L310 888 L467 852 Z" vector-effect="non-scaling-stroke" stroke-width="1.6"/>
+    <path d="M533 838 L690 878" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.6"/>
+    <path d="M467 838 L310 878" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.6"/>
+    <path d="M496 790 L504 790 L503 900 L497 900 Z" vector-effect="non-scaling-stroke" stroke-width="1.1" stroke-opacity="0.8"/>
+    <circle cx="500" cy="909" r="3.2" vector-effect="non-scaling-stroke" stroke-width="1"/>
+  </g></defs></svg>
+
+  <header class="hd" id="hd">
+    <a class="hd__brand" href="index.html" aria-label="My Aviation Playground, home">
+      <svg class="hd__mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><path d="M16 3 L19 12 L29 18 L29 21 L19 18 L18 26 L22 29 L22 30.5 L16 29 L10 30.5 L10 29 L14 26 L13 18 L3 21 L3 18 L13 12 Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+      <span>Aviation Playground</span>
+    </a>
+    <button class="hd__toggle" id="menuBtn" type="button" aria-expanded="false" aria-controls="menu">
+      <span class="hd__label">Menu</span><span class="hd__bars" aria-hidden="true"></span>
+    </button>
+    <nav class="hd__nav" id="menu" aria-label="Main">
+      <ul>
+        <li><a href="components.html"><span class="n">01</span>Components</a></li>
+        <li><a href="quiz.html"><span class="n">02</span>Quiz</a></li>
+        <li><a href="learn.html"><span class="n">03</span>Learn</a></li>
+        <li><a href="log.html"><span class="n">04</span>Log</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div id="sentinel" aria-hidden="true"></div>
+
+  <main id="main">
+    <!-- ============ HERO ============ -->
+    <section class="hero" id="hero" aria-labelledby="hero-title">
+      <div class="hero__sky" aria-hidden="true"></div>
+      <div class="hero__grid" aria-hidden="true"></div>
+      <div class="hero__layers" aria-hidden="true">
+        <div class="layer" style="--d:5">
+          <div class="only-wide"><svg class="rings" viewBox="0 0 1600 900" preserveAspectRatio="xMaxYMid slice" aria-hidden="true" focusable="false">
+  <g fill="none" stroke="currentColor">
+    <circle cx="1150" cy="450" r="250" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.28"/>
+    <circle cx="1150" cy="450" r="380" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.5"/>
+    <circle cx="1150" cy="450" r="500" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.28"/>
+    <circle cx="1150" cy="450" r="640" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.28"/>
+    <line x1="1150.0" y1="-10.0" x2="1150.0" y2="4.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1229.9" y1="-3.0" x2="1228.7" y2="3.9" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1307.3" y1="17.7" x2="1304.9" y2="24.3" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1380.0" y1="51.6" x2="1373.0" y2="63.8" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1445.7" y1="97.6" x2="1441.2" y2="103.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1502.4" y1="154.3" x2="1497.0" y2="158.8" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1548.4" y1="220.0" x2="1536.2" y2="227.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1582.3" y1="292.7" x2="1575.7" y2="295.1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1603.0" y1="370.1" x2="1596.1" y2="371.3" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1610.0" y1="450.0" x2="1596.0" y2="450.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1603.0" y1="529.9" x2="1596.1" y2="528.7" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1582.3" y1="607.3" x2="1575.7" y2="604.9" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1548.4" y1="680.0" x2="1536.2" y2="673.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1502.4" y1="745.7" x2="1497.0" y2="741.2" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1445.7" y1="802.4" x2="1441.2" y2="797.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1380.0" y1="848.4" x2="1373.0" y2="836.2" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1307.3" y1="882.3" x2="1304.9" y2="875.7" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1229.9" y1="903.0" x2="1228.7" y2="896.1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1150.0" y1="910.0" x2="1150.0" y2="896.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1070.1" y1="903.0" x2="1071.3" y2="896.1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="992.7" y1="882.3" x2="995.1" y2="875.7" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="920.0" y1="848.4" x2="927.0" y2="836.2" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="854.3" y1="802.4" x2="858.8" y2="797.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="797.6" y1="745.7" x2="803.0" y2="741.2" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="751.6" y1="680.0" x2="763.8" y2="673.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="717.7" y1="607.3" x2="724.3" y2="604.9" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="697.0" y1="529.9" x2="703.9" y2="528.7" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="690.0" y1="450.0" x2="704.0" y2="450.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="697.0" y1="370.1" x2="703.9" y2="371.3" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="717.7" y1="292.7" x2="724.3" y2="295.1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="751.6" y1="220.0" x2="763.8" y2="227.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="797.6" y1="154.3" x2="803.0" y2="158.8" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="854.3" y1="97.6" x2="858.8" y2="103.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="920.0" y1="51.6" x2="927.0" y2="63.8" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="992.7" y1="17.7" x2="995.1" y2="24.3" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="1070.1" y1="-3.0" x2="1071.3" y2="3.9" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+  </g>
+  <g class="rings__lbl">
+    <text x="1567.4" y="213.0" text-anchor="middle">060</text>
+    <text x="1567.4" y="695.0" text-anchor="middle">120</text>
+    <text x="732.6" y="695.0" text-anchor="middle">240</text>
+    <text x="732.6" y="213.0" text-anchor="middle">300</text>
+  </g>
+  <g stroke="currentColor" vector-effect="non-scaling-stroke" stroke-opacity=".22" fill="none"><line x1="450" y1="450" x2="1850" y2="450" vector-effect="non-scaling-stroke" stroke-width="1" stroke-dasharray="2 8"/><line x1="1150" y1="-250" x2="1150" y2="1150" vector-effect="non-scaling-stroke" stroke-width="1" stroke-dasharray="2 8"/></g>
+</svg></div>
+          <div class="only-tall"><svg class="rings" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid meet" aria-hidden="true" focusable="false">
+  <g fill="none" stroke="currentColor">
+    <circle cx="400" cy="550" r="190" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.28"/>
+    <circle cx="400" cy="550" r="300" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.5"/>
+    <circle cx="400" cy="550" r="410" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.28"/>
+    <circle cx="400" cy="550" r="520" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity="0.28"/>
+    <line x1="400.0" y1="140.0" x2="400.0" y2="154.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="471.2" y1="146.2" x2="470.0" y2="153.1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="540.2" y1="164.7" x2="537.8" y2="171.3" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="605.0" y1="194.9" x2="598.0" y2="207.1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="663.5" y1="235.9" x2="659.0" y2="241.3" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="714.1" y1="286.5" x2="708.7" y2="291.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="755.1" y1="345.0" x2="742.9" y2="352.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="785.3" y1="409.8" x2="778.7" y2="412.2" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="803.8" y1="478.8" x2="796.9" y2="480.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="810.0" y1="550.0" x2="796.0" y2="550.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="803.8" y1="621.2" x2="796.9" y2="620.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="785.3" y1="690.2" x2="778.7" y2="687.8" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="755.1" y1="755.0" x2="742.9" y2="748.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="714.1" y1="813.5" x2="708.7" y2="809.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="663.5" y1="864.1" x2="659.0" y2="858.7" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="605.0" y1="905.1" x2="598.0" y2="892.9" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="540.2" y1="935.3" x2="537.8" y2="928.7" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="471.2" y1="953.8" x2="470.0" y2="946.9" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="400.0" y1="960.0" x2="400.0" y2="946.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="328.8" y1="953.8" x2="330.0" y2="946.9" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="259.8" y1="935.3" x2="262.2" y2="928.7" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="195.0" y1="905.1" x2="202.0" y2="892.9" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="136.5" y1="864.1" x2="141.0" y2="858.7" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="85.9" y1="813.5" x2="91.3" y2="809.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="44.9" y1="755.0" x2="57.1" y2="748.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="14.7" y1="690.2" x2="21.3" y2="687.8" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="-3.8" y1="621.2" x2="3.1" y2="620.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="-10.0" y1="550.0" x2="4.0" y2="550.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="-3.8" y1="478.8" x2="3.1" y2="480.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="14.7" y1="409.8" x2="21.3" y2="412.2" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="44.9" y1="345.0" x2="57.1" y2="352.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="85.9" y1="286.5" x2="91.3" y2="291.0" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="136.5" y1="235.9" x2="141.0" y2="241.3" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="195.0" y1="194.9" x2="202.0" y2="207.1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="259.8" y1="164.7" x2="262.2" y2="171.3" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+    <line x1="328.8" y1="146.2" x2="330.0" y2="153.1" vector-effect="non-scaling-stroke" stroke-width="1" stroke-opacity=".55"/>
+  </g>
+  <g class="rings__lbl">
+    <text x="774.1" y="338.0" text-anchor="middle">060</text>
+    <text x="774.1" y="770.0" text-anchor="middle">120</text>
+    <text x="25.9" y="770.0" text-anchor="middle">240</text>
+    <text x="25.9" y="338.0" text-anchor="middle">300</text>
+  </g>
+  <g stroke="currentColor" vector-effect="non-scaling-stroke" stroke-opacity=".22" fill="none"><line x1="-180" y1="550" x2="980" y2="550" vector-effect="non-scaling-stroke" stroke-width="1" stroke-dasharray="2 8"/><line x1="400" y1="-30" x2="400" y2="1130" vector-effect="non-scaling-stroke" stroke-width="1" stroke-dasharray="2 8"/></g>
+</svg></div>
+        </div>
+        <div class="layer layer--ac" style="--d:14">
+          <div class="only-wide"><svg class="art" viewBox="0 0 1600 900" preserveAspectRatio="xMaxYMid slice" aria-hidden="true" focusable="false">
+  <g class="art__ac" transform="translate(1150 450) rotate(42) scale(1.02) translate(-500 -480)"><use href="#airliner"/></g>
+  <g class="art__call">
+    <line x1="1444.8" y1="122.5" x2="1504.8" y2="146.5" vector-effect="non-scaling-stroke"/>
+    <circle cx="1444.8" cy="122.5" r="3" vector-effect="non-scaling-stroke"/>
+    <text x="1510.8" y="150.5" text-anchor="start">RADOME</text>
+    <line x1="1381.8" y1="656.0" x2="1471.8" y2="666.0" vector-effect="non-scaling-stroke"/>
+    <circle cx="1381.8" cy="656.0" r="3" vector-effect="non-scaling-stroke"/>
+    <text x="1477.8" y="670.0" text-anchor="start">LEADING EDGE</text>
+    <line x1="1364.7" y1="467.6" x2="1434.7" y2="447.6" vector-effect="non-scaling-stroke"/>
+    <circle cx="1364.7" cy="467.6" r="3" vector-effect="non-scaling-stroke"/>
+    <text x="1440.7" y="451.6" text-anchor="start">ENGINE NACELLE</text>
+    <line x1="866.9" y1="299.4" x2="836.9" y2="233.4" vector-effect="non-scaling-stroke"/>
+    <circle cx="866.9" cy="299.4" r="3" vector-effect="non-scaling-stroke"/>
+    <text x="830.9" y="237.4" text-anchor="end">TRAILING EDGE</text>
+  </g>
+</svg></div>
+          <div class="only-tall"><svg class="art" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid meet" aria-hidden="true" focusable="false">
+  <g class="art__ac" transform="translate(400 550) rotate(-14) scale(0.92) translate(-500 -480)"><use href="#airliner"/></g>
+  <g class="art__call">
+    <line x1="303.9" y1="164.4" x2="363.9" y2="168.4" vector-effect="non-scaling-stroke"/>
+    <circle cx="303.9" cy="164.4" r="3" vector-effect="non-scaling-stroke"/>
+    <text x="369.9" y="172.4" text-anchor="start">RADOME</text>
+    <line x1="521.5" y1="398.3" x2="551.5" y2="352.3" vector-effect="non-scaling-stroke"/>
+    <circle cx="521.5" cy="398.3" r="3" vector-effect="non-scaling-stroke"/>
+    <text x="557.5" y="356.3" text-anchor="start">ENGINE</text>
+  </g>
+</svg></div>
+        </div>
+      </div>
+      <div class="hero__fade" aria-hidden="true"></div>
+      <span class="cm cm--tl" aria-hidden="true"></span><span class="cm cm--tr" aria-hidden="true"></span>
+      <span class="cm cm--bl" aria-hidden="true"></span><span class="cm cm--br" aria-hidden="true"></span>
+
+      <div class="hero__content wrap">
+        <p class="eyebrow mono"><span>[01]</span> Personal aviation playground</p>
+        <h1 id="hero-title">
+          <span class="line"><span>The aircraft,</span></span>
+          <span class="line line--ice"><span>part by part.</span></span>
+        </h1>
+        <p class="lead">Components by ATA chapter, quizzes, CAR-66 study notes and a learning log. Built one system at a time.</p>
+        <p class="cta">
+          <a class="btn btn--primary" href="components.html" data-keep-preview>Explore the components</a>
+          <a class="btn btn--ghost" href="quiz.html" data-keep-preview>Take the Daily 5</a>
+        </p>
+      </div>
+      <p class="hero__fig mono">Fig. 01 &mdash; Generic twin-engine airliner, plan view. Illustration, not to scale.</p>
+      <a class="scroll mono" href="#glance"><span>Scroll</span><i aria-hidden="true"></i></a>
+    </section>
+
+    <!-- ============ AT A GLANCE ============ -->
+    <section class="sec glance" id="glance" aria-labelledby="glance-title">
+      <div class="wrap glance__grid">
+        <div class="sec__head rv">
+          <p class="tag mono"><span>[02]</span> At a glance</p>
+          <h2 id="glance-title">One site.<br>Four ways in.</h2>
+          <p class="sec__lead">Look up a part, test yourself, study the syllabus, or read what I'm learning this week.</p>
+        </div>
+        <ol class="index">
+          <li class="rv" style="--i:1"><a class="index__row" href="components.html" data-keep-preview data-stat="components">
+            <span class="index__n mono">01</span><span class="index__title">Components</span>
+            <span class="index__desc">Aircraft parts by ATA chapter, each with a plain and an engineer explanation.</span>
+            <span class="index__stat mono" data-out>In preparation</span><span class="index__arrow" aria-hidden="true">&rarr;</span></a></li>
+          <li class="rv" style="--i:2"><a class="index__row" href="quiz.html" data-keep-preview data-stat="quiz">
+            <span class="index__n mono">02</span><span class="index__title">Quiz</span>
+            <span class="index__desc">Daily 5 and topic quizzes. Every answer comes with an explanation and a source.</span>
+            <span class="index__stat mono" data-out>In preparation</span><span class="index__arrow" aria-hidden="true">&rarr;</span></a></li>
+          <li class="rv" style="--i:3"><a class="index__row" href="learn.html" data-keep-preview data-stat="learn">
+            <span class="index__n mono">03</span><span class="index__title">Learn</span>
+            <span class="index__desc">CAR-66 module notes in my own words, with worked examples you can check.</span>
+            <span class="index__stat mono" data-out>In preparation</span><span class="index__arrow" aria-hidden="true">&rarr;</span></a></li>
+          <li class="rv" style="--i:4"><a class="index__row" href="log.html" data-keep-preview data-stat="log">
+            <span class="index__n mono">04</span><span class="index__title">Today I Learned</span>
+            <span class="index__desc">Short notes on what I'm learning, newest first, with sources.</span>
+            <span class="index__stat mono" data-out>In preparation</span><span class="index__arrow" aria-hidden="true">&rarr;</span></a></li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ============ SYSTEMS EXPLORER ============ -->
+    <section class="sec explorer" id="explorer" aria-labelledby="explorer-title">
+      <div class="wrap">
+        <div class="sec__head rv">
+          <p class="tag mono"><span>[03]</span> Systems explorer</p>
+          <h2 id="explorer-title">Nose to tail,<br>system by system.</h2>
+          <p class="sec__lead">Choose a system on the drawing to see what the ATA chapter covers and how much of it is in the library.</p>
+        </div>
+        <div class="explorer__grid">
+          <div class="explorer__stage rv">
+            <div class="explorer__wrap">
+              <svg class="xart" viewBox="60 20 880 920" aria-hidden="true" focusable="false">
+  <line x1="500" y1="20" x2="500" y2="940" vector-effect="non-scaling-stroke" stroke-dasharray="10 6 2 6" stroke-opacity=".28" stroke-width="1"/>
+  <g class="xart__ac"><use href="#airliner"/></g>
+  <g class="xart__dim" stroke-width="1" vector-effect="non-scaling-stroke">
+    <line x1="95" y1="660" x2="905" y2="660" vector-effect="non-scaling-stroke"/><line x1="95" y1="650" x2="95" y2="670" vector-effect="non-scaling-stroke"/><line x1="905" y1="650" x2="905" y2="670" vector-effect="non-scaling-stroke"/>
+    <text x="500" y="652" text-anchor="middle">SPAN</text>
+  </g>
+</svg>
+              <button class="hs" type="button" data-key="ata34" data-side="r" style="left:50.00%;top:5.00%" aria-pressed="false"><span class="hs__dot"></span><span class="hs__lbl" aria-hidden="true"></span></button>
+              <button class="hs" type="button" data-key="ata22" data-side="l" style="left:50.00%;top:14.13%" aria-pressed="false"><span class="hs__dot"></span><span class="hs__lbl" aria-hidden="true"></span></button>
+              <button class="hs" type="button" data-key="ata27" data-side="r" style="left:85.23%;top:58.26%" aria-pressed="false"><span class="hs__dot"></span><span class="hs__lbl" aria-hidden="true"></span></button>
+              <button class="hs" type="button" data-key="ata28" data-side="r" style="left:75.57%;top:50.22%" aria-pressed="false"><span class="hs__dot"></span><span class="hs__lbl" aria-hidden="true"></span></button>
+              <button class="hs" type="button" data-key="ata32" data-side="r" style="left:60.00%;top:46.96%" aria-pressed="false"><span class="hs__dot"></span><span class="hs__lbl" aria-hidden="true"></span></button>
+              <button class="hs" type="button" data-key="ata7x" data-side="l" style="left:30.91%;top:42.39%" aria-pressed="false"><span class="hs__dot"></span><span class="hs__lbl" aria-hidden="true"></span></button>
+              <button class="hs" type="button" data-key="ata49" data-side="r" style="left:50.00%;top:94.89%" aria-pressed="false"><span class="hs__dot"></span><span class="hs__lbl" aria-hidden="true"></span></button>
+            </div>
+            <p class="explorer__note mono">Generic twin-engine airliner, plan view. Positions are indicative.</p>
+          </div>
+          <aside class="explorer__panel rv" id="panel" aria-live="polite" aria-label="Selected system">
+            <p class="panel__hint">Turn on JavaScript to explore the aircraft drawing, or <a href="components.html" style="color:var(--ice)">browse the components by ATA chapter</a>.</p>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ TECHNICAL INTELLIGENCE ============ -->
+    <section class="sec intel" id="intel" aria-labelledby="intel-title">
+      <div class="wrap intel__grid">
+        <div class="intel__bp rv" aria-hidden="false">
+          <svg class="circuit" viewBox="0 0 360 220" role="img" aria-label="Schematic of a simple circuit: a battery, a resistor and the direction of conventional current">
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" vector-effect="non-scaling-stroke">
+    <path d="M60 116 L60 50 L140 50" vector-effect="non-scaling-stroke"/>
+    <path d="M140 50 L150 36 L160 64 L170 36 L180 64 L190 36 L200 64 L210 36 L220 50" vector-effect="non-scaling-stroke"/>
+    <path d="M220 50 L300 50 L300 170 L60 170 L60 128" vector-effect="non-scaling-stroke"/>
+    <path d="M44 128 L76 128" vector-effect="non-scaling-stroke" stroke-width="2.5"/>
+    <path d="M52 116 L68 116" vector-effect="non-scaling-stroke" stroke-width="2.5"/>
+    <path d="M270 42 L250 50 L270 58" vector-effect="non-scaling-stroke"/>
+  </g>
+  <g class="circuit__lbl">
+    <text x="26" y="132">+</text><text x="26" y="121">&#8722;</text>
+    <text x="180" y="22" text-anchor="middle">R</text>
+    <text x="16" y="154">V</text>
+    <text x="260" y="34" text-anchor="middle">I</text>
+  </g>
+</svg>
+          <p class="mono intel__cap">Fig. 02 &mdash; A battery, a resistor and the direction of conventional current.</p>
+        </div>
+        <div class="intel__copy rv">
+          <p class="tag mono"><span>[04]</span> Technical intelligence</p>
+          <h2 id="intel-title">Study the syllabus, with the working shown.</h2>
+          <p class="sec__lead">The Learn section follows the EASA Part-66 module structure that India's CAR-66 is built on. Module 3 is first: Electrical Fundamentals.</p>
+          <dl class="eq">
+            <div><dt class="mono">Ohm's law</dt><dd>V = I &times; R</dd></div>
+            <div><dt class="mono">Electrical power</dt><dd>P = V &times; I</dd></div>
+            <div><dt class="mono">Kirchhoff's current law</dt><dd>&Sigma; I<sub>in</sub> = &Sigma; I<sub>out</sub></dd></div>
+          </dl>
+          <p class="mono small" id="learnStatus"></p>
+          <p><a class="btn btn--primary" href="learn.html?module=3" data-keep-preview data-module-link>Open Module 3</a></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ DISCOVER ============ -->
+    <section class="sec discover" id="discover" aria-labelledby="discover-title">
+      <div class="wrap">
+        <div class="sec__head rv">
+          <p class="tag mono"><span>[05]</span> Discover</p>
+          <h2 id="discover-title">Pick up where<br>today starts.</h2>
+        </div>
+        <div class="discover__grid">
+          <article class="feature rv" id="cotd" aria-labelledby="cotd-h"></article>
+          <div class="discover__side">
+            <article class="note rv" id="latest" aria-labelledby="latest-h" style="--i:1"></article>
+            <article class="daily rv" id="daily" aria-labelledby="daily-h" style="--i:2"></article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ TRANSITION STATEMENT ============ -->
+    <section class="statement" id="statement" aria-labelledby="statement-h">
+      <h2 class="statement__h" id="statement-h"><span class="a">Nose to tail.</span><span class="b">Chapter by chapter.</span></h2>
+      <ul class="chapters mono" id="chapters" aria-label="ATA chapters in the library"></ul>
+    </section>
+
+    <!-- ============ FINAL CTA ============ -->
+    <section class="sec cta-final" id="start" aria-labelledby="cta-title">
+      <div class="wrap">
+        <p class="tag mono rv"><span>[06]</span> Start here</p>
+        <h2 id="cta-title" class="rv">Start with one part.</h2>
+        <p class="sec__lead rv">Pick a system, open a component, then test yourself on it.</p>
+        <p class="rv">
+          <a class="btn btn--primary" href="components.html" data-keep-preview>Open the library</a>
+          <a class="btn btn--ghost" href="quiz.html" data-keep-preview>Take the Daily 5</a>
+        </p>
+      </div>
+    </section>
   </main>
-  <div id="site-footer"></div>
-  <script src="js/site.js"></script>
+
+  <footer class="ft">
+    <div class="wrap ft__grid">
+      <div>
+        <p class="ft__brand">Aviation Playground</p>
+        <p class="small">Personal educational project. Not for maintenance or operational use. Always refer to approved maintenance data.</p>
+      </div>
+      <nav aria-label="Footer">
+        <p class="mono ft__h">Explore</p>
+        <ul>
+          <li><a href="components.html" data-keep-preview>Components</a></li>
+          <li><a href="quiz.html" data-keep-preview>Quiz</a></li>
+          <li><a href="learn.html" data-keep-preview>Learn</a></li>
+          <li><a href="log.html" data-keep-preview>Today I Learned</a></li>
+        </ul>
+      </nav>
+      <div>
+        <p class="mono ft__h">Please note</p>
+        <p class="small">Study notes are an unofficial aid. Refer to the current DGCA CAR-66. The aircraft drawings are generic illustrations and do not show a specific aircraft type.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/home.js" defer></script>
 </body>
 </html>

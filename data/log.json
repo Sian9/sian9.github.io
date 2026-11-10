@@ -1,0 +1,40 @@
+[
+  {
+    "id": "2026-10-26-site-is-live",
+    "date": "2026-10-26",
+    "title": "My aviation playground is live",
+    "tags": ["site", "milestone"],
+    "body": [
+      "Today my first page went online. I set up the repository, learned how commits and pushes work, and built a components library and a quiz.",
+      "Rewrite this in your own words, or delete it."
+    ],
+    "links": [],
+    "published": false
+  },
+  {
+    "id": "2026-10-25-a320-flight-control-computers",
+    "date": "2026-10-25",
+    "title": "A320 flight control computers: 2 + 3 + 2",
+    "tags": ["A320", "flight controls", "ATA 27"],
+    "body": [
+      "The A320 has seven flight control computers in total: two ELACs, three SECs and two FACs.",
+      "The FACs handle yaw damping, turn coordination and rudder travel limiting, while the FCDCs collect data from the ELACs and SECs for the displays and maintenance system."
+    ],
+    "links": [
+      { "label": "SKYbrary: Flight Control Laws", "url": "https://www.skybrary.aero/articles/flight-control-laws" }
+    ],
+    "published": false
+  },
+  {
+    "id": "2026-10-24-github-pages-case-sensitive",
+    "date": "2026-10-24",
+    "title": "File names are case-sensitive online",
+    "tags": ["site", "tips"],
+    "body": [
+      "Windows treats Image.JPG and image.jpg as the same file, but GitHub's servers don't. A picture can work on my computer and break on the live site.",
+      "Rule I follow now: lowercase file names with hyphens, and no spaces."
+    ],
+    "links": [],
+    "published": false
+  }
+]

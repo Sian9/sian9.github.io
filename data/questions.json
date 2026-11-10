@@ -1,0 +1,3601 @@
+[
+  {
+    "id": "q001",
+    "question": "Which ATA chapter covers Air Conditioning and Pressurization?",
+    "options": [
+      "ATA 35",
+      "ATA 36",
+      "ATA 25",
+      "ATA 21"
+    ],
+    "answer": 3,
+    "explanation": "ATA 21 is Air Conditioning.",
+    "ata": 21,
+    "ataTitle": "Air Conditioning",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q002",
+    "question": "Which ATA chapter covers Auto Flight?",
+    "options": [
+      "ATA 27",
+      "ATA 31",
+      "ATA 34",
+      "ATA 22"
+    ],
+    "answer": 3,
+    "explanation": "ATA 22 is Auto Flight.",
+    "ata": 22,
+    "ataTitle": "Auto Flight",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q003",
+    "question": "ATA 23 covers which system?",
+    "options": [
+      "Communications",
+      "Lights",
+      "Indicating/Recording Systems",
+      "Navigation"
+    ],
+    "answer": 0,
+    "explanation": "ATA 23 is Communications.",
+    "ata": 23,
+    "ataTitle": "Communications",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q004",
+    "question": "Which ATA chapter covers Electrical Power?",
+    "options": [
+      "ATA 24",
+      "ATA 28",
+      "ATA 33",
+      "ATA 23"
+    ],
+    "answer": 0,
+    "explanation": "ATA 24 is Electrical Power.",
+    "ata": 24,
+    "ataTitle": "Electrical Power",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q005",
+    "question": "ATA 25 covers which system?",
+    "options": [
+      "Fire Protection",
+      "Equipment/Furnishings",
+      "Doors",
+      "Lights"
+    ],
+    "answer": 1,
+    "explanation": "ATA 25 is Equipment/Furnishings.",
+    "ata": 25,
+    "ataTitle": "Equipment/Furnishings",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q006",
+    "question": "ATA 26 covers which system?",
+    "options": [
+      "Ice and Rain Protection",
+      "Equipment/Furnishings",
+      "Fire Protection",
+      "Oxygen"
+    ],
+    "answer": 2,
+    "explanation": "ATA 26 is Fire Protection.",
+    "ata": 26,
+    "ataTitle": "Fire Protection",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q007",
+    "question": "Which ATA chapter covers Flight Controls?",
+    "options": [
+      "ATA 32",
+      "ATA 22",
+      "ATA 27",
+      "ATA 28"
+    ],
+    "answer": 2,
+    "explanation": "ATA 27 is Flight Controls.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q008",
+    "question": "Which ATA chapter covers Fuel?",
+    "options": [
+      "ATA 49",
+      "ATA 28",
+      "ATA 29",
+      "ATA 24"
+    ],
+    "answer": 1,
+    "explanation": "ATA 28 is Fuel.",
+    "ata": 28,
+    "ataTitle": "Fuel",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q009",
+    "question": "Which ATA chapter covers Hydraulic Power?",
+    "options": [
+      "ATA 21",
+      "ATA 32",
+      "ATA 29",
+      "ATA 27"
+    ],
+    "answer": 2,
+    "explanation": "ATA 29 is Hydraulic Power.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q010",
+    "question": "Which ATA chapter covers Ice and Rain Protection?",
+    "options": [
+      "ATA 36",
+      "ATA 21",
+      "ATA 26",
+      "ATA 30"
+    ],
+    "answer": 3,
+    "explanation": "ATA 30 is Ice and Rain Protection.",
+    "ata": 30,
+    "ataTitle": "Ice and Rain Protection",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q011",
+    "question": "Which ATA chapter covers Landing Gear?",
+    "options": [
+      "ATA 52",
+      "ATA 27",
+      "ATA 32",
+      "ATA 29"
+    ],
+    "answer": 2,
+    "explanation": "ATA 32 is Landing Gear.",
+    "ata": 32,
+    "ataTitle": "Landing Gear",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q012",
+    "question": "ATA 33 covers which system?",
+    "options": [
+      "Electrical Power",
+      "Indicating/Recording Systems",
+      "Equipment/Furnishings",
+      "Lights"
+    ],
+    "answer": 3,
+    "explanation": "ATA 33 is Lights.",
+    "ata": 33,
+    "ataTitle": "Lights",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q013",
+    "question": "Which ATA chapter covers Navigation?",
+    "options": [
+      "ATA 22",
+      "ATA 23",
+      "ATA 31",
+      "ATA 34"
+    ],
+    "answer": 3,
+    "explanation": "ATA 34 is Navigation.",
+    "ata": 34,
+    "ataTitle": "Navigation",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q014",
+    "question": "Which ATA chapter covers Oxygen?",
+    "options": [
+      "ATA 21",
+      "ATA 35",
+      "ATA 38",
+      "ATA 36"
+    ],
+    "answer": 1,
+    "explanation": "ATA 35 is Oxygen.",
+    "ata": 35,
+    "ataTitle": "Oxygen",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q015",
+    "question": "ATA 36 covers which system?",
+    "options": [
+      "Fuel",
+      "Hydraulic Power",
+      "Pneumatic",
+      "Air Conditioning"
+    ],
+    "answer": 2,
+    "explanation": "ATA 36 is Pneumatic.",
+    "ata": 36,
+    "ataTitle": "Pneumatic",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q016",
+    "question": "Which ATA chapter covers Water/Waste?",
+    "options": [
+      "ATA 52",
+      "ATA 36",
+      "ATA 35",
+      "ATA 38"
+    ],
+    "answer": 3,
+    "explanation": "ATA 38 is Water/Waste.",
+    "ata": 38,
+    "ataTitle": "Water/Waste",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q017",
+    "question": "Which ATA chapter covers Airborne Auxiliary Power (the APU)?",
+    "options": [
+      "ATA 36",
+      "ATA 24",
+      "ATA 49",
+      "ATA 80"
+    ],
+    "answer": 2,
+    "explanation": "ATA 49 is Airborne Auxiliary Power.",
+    "ata": 49,
+    "ataTitle": "Airborne Auxiliary Power",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q018",
+    "question": "ATA 52 covers which system?",
+    "options": [
+      "Windows",
+      "Doors",
+      "Fuselage",
+      "Landing Gear"
+    ],
+    "answer": 1,
+    "explanation": "ATA 52 is Doors.",
+    "ata": 52,
+    "ataTitle": "Doors",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q019",
+    "question": "Which ATA chapter covers Engine Fuel and Control?",
+    "options": [
+      "ATA 76",
+      "ATA 71",
+      "ATA 28",
+      "ATA 73"
+    ],
+    "answer": 3,
+    "explanation": "ATA 73 is Engine Fuel and Control.",
+    "ata": 73,
+    "ataTitle": "Engine Fuel and Control",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q020",
+    "question": "Which ATA chapter covers Starting (engine starting)?",
+    "options": [
+      "ATA 49",
+      "ATA 74",
+      "ATA 79",
+      "ATA 80"
+    ],
+    "answer": 3,
+    "explanation": "ATA 80 is Starting.",
+    "ata": 80,
+    "ataTitle": "Starting",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q021",
+    "question": "How many independent hydraulic systems does the A320 family have?",
+    "options": [
+      "Three: Red, Green and Blue",
+      "Four: Green, Blue, Yellow and Red",
+      "Three: Green, Blue and Yellow",
+      "Two: Green and Yellow"
+    ],
+    "answer": 2,
+    "explanation": "The A320 family has three independent hydraulic systems, identified by colour: Green, Blue and Yellow.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "easy",
+    "source": "The Flying Engineer: A320 hydraulic systems",
+    "sourceUrl": "https://theflyingengineer.com/projects/airbus-tech/hydraulic-systems",
+    "reviewed": true
+  },
+  {
+    "id": "q022",
+    "question": "Which two A320 hydraulic systems does the Power Transfer Unit (PTU) link?",
+    "options": [
+      "Green and Blue",
+      "Blue and Yellow",
+      "Green and Yellow",
+      "All three systems"
+    ],
+    "answer": 2,
+    "explanation": "The PTU is reversible and transfers hydraulic power between the Green and Yellow systems without transferring fluid.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "medium",
+    "source": "Flyaway Simulation: A320 PTU",
+    "sourceUrl": "https://flyawaysimulation.com/ask/answers/airbus-a320-ptu-how-it-works/",
+    "reviewed": true
+  },
+  {
+    "id": "q023",
+    "question": "What is the normal operating pressure of the A320 hydraulic systems?",
+    "options": [
+      "2,000 psi",
+      "1,500 psi",
+      "3,000 psi",
+      "5,000 psi"
+    ],
+    "answer": 2,
+    "explanation": "Normal system pressure is 3,000 psi.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "easy",
+    "source": "SmartCockpit: A320 hydraulic quiz",
+    "sourceUrl": "https://www.smartcockpit.com/wp_quiz/airbus-a320-hydraulic/",
+    "reviewed": true
+  },
+  {
+    "id": "q024",
+    "question": "When the Blue system is powered by the RAT, approximately what pressure does it supply?",
+    "options": [
+      "2,000 psi",
+      "1,500 psi",
+      "3,000 psi",
+      "2,500 psi"
+    ],
+    "answer": 3,
+    "explanation": "Normal pressure is 3,000 psi, but the Blue system supplies about 2,500 psi when powered by the Ram Air Turbine.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "medium",
+    "source": "SmartCockpit: A320 hydraulic quiz",
+    "sourceUrl": "https://www.smartcockpit.com/wp_quiz/airbus-a320-hydraulic/",
+    "reviewed": true
+  },
+  {
+    "id": "q025",
+    "question": "Which A320 hydraulic system is normally pressurised by the engine 1-driven pump?",
+    "options": [
+      "Blue",
+      "Green",
+      "Both Green and Yellow",
+      "Yellow"
+    ],
+    "answer": 1,
+    "explanation": "Engine 1 normally drives the Green system pump, and engine 2 normally drives the Yellow system pump.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "easy",
+    "source": "The Flying Engineer: A320 hydraulic systems",
+    "sourceUrl": "https://theflyingengineer.com/projects/airbus-tech/hydraulic-systems",
+    "reviewed": true
+  },
+  {
+    "id": "q026",
+    "question": "What normally pressurises the A320 Blue hydraulic system?",
+    "options": [
+      "An electric pump",
+      "An engine 1-driven pump",
+      "The PTU",
+      "An engine 2-driven pump"
+    ],
+    "answer": 0,
+    "explanation": "The Blue system normally uses an electric pump. The RAT is its emergency backup.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "medium",
+    "source": "The Flying Engineer: A320 hydraulic systems",
+    "sourceUrl": "https://theflyingengineer.com/projects/airbus-tech/hydraulic-systems",
+    "reviewed": true
+  },
+  {
+    "id": "q027",
+    "question": "With the PTU pushbutton in AUTO, the PTU runs when Green and Yellow pressures differ by roughly how much?",
+    "options": [
+      "500 psi",
+      "1,500 psi",
+      "3,000 psi",
+      "50 psi"
+    ],
+    "answer": 0,
+    "explanation": "In AUTO the PTU operates when the Green and Yellow pressures differ by roughly 500 psi, for example after an engine-driven pump failure.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "hard",
+    "source": "Flyaway Simulation: A320 PTU",
+    "sourceUrl": "https://flyawaysimulation.com/ask/answers/airbus-a320-ptu-how-it-works/",
+    "reviewed": true
+  },
+  {
+    "id": "q028",
+    "question": "How can the flight crew close the fire shutoff valve in the Green or Yellow hydraulic line?",
+    "options": [
+      "By pushing the HYD PTU pushbutton",
+      "By pushing the RAT MAN ON pushbutton",
+      "By pushing the ENG FIRE pushbutton for that engine",
+      "By switching off the hydraulic reservoir pressurisation"
+    ],
+    "answer": 2,
+    "explanation": "Each of the Green and Yellow systems has a fire shutoff valve upstream of its engine-driven pump, closed by the ENG 1 (2) FIRE pushbutton.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "hard",
+    "source": "SmartCockpit: A320 hydraulic quiz",
+    "sourceUrl": "https://www.smartcockpit.com/wp_quiz/airbus-a320-hydraulic/",
+    "reviewed": true
+  },
+  {
+    "id": "q029",
+    "question": "How many flight control computers (ELAC, SEC and FAC together) does the A320 have?",
+    "options": [
+      "Nine",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "answer": 3,
+    "explanation": "The A320 has two ELACs, three SECs and two FACs, which makes seven in total.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "medium",
+    "source": "SKYbrary: Flight Control Laws",
+    "sourceUrl": "https://www.skybrary.aero/articles/flight-control-laws",
+    "reviewed": true
+  },
+  {
+    "id": "q030",
+    "question": "How many ELACs (Elevator Aileron Computers) does the A320 have?",
+    "options": [
+      "One",
+      "Three",
+      "Four",
+      "Two"
+    ],
+    "answer": 3,
+    "explanation": "The A320 has two ELACs.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "easy",
+    "source": "SKYbrary: Flight Control Laws",
+    "sourceUrl": "https://www.skybrary.aero/articles/flight-control-laws",
+    "reviewed": true
+  },
+  {
+    "id": "q031",
+    "question": "How many SECs (Spoiler Elevator Computers) does the A320 have?",
+    "options": [
+      "Three",
+      "One",
+      "Four",
+      "Two"
+    ],
+    "answer": 0,
+    "explanation": "The A320 has three SECs.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "easy",
+    "source": "SKYbrary: Flight Control Laws",
+    "sourceUrl": "https://www.skybrary.aero/articles/flight-control-laws",
+    "reviewed": true
+  },
+  {
+    "id": "q032",
+    "question": "Which A320 computers provide yaw damping, turn coordination and rudder travel limiting?",
+    "options": [
+      "The SECs",
+      "The ELACs",
+      "The FACs (Flight Augmentation Computers)",
+      "The FCDCs"
+    ],
+    "answer": 2,
+    "explanation": "The two FACs control yaw damping, turn coordination, rudder travel limiting and rudder trim.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "medium",
+    "source": "Gerry Airways: A320 FBW computers (cross-check with your FCOM)",
+    "sourceUrl": "https://www.gerryairways.com/index.php/en/safety/qz8501-fbw-part-1-understanding-a320-computers/",
+    "reviewed": true
+  },
+  {
+    "id": "q033",
+    "question": "What does a Flight Control Data Concentrator (FCDC) do?",
+    "options": [
+      "Controls the flaps and slats",
+      "Moves the horizontal stabiliser trim motors",
+      "Drives the rudder directly",
+      "Collects data from the ELACs and SECs and passes it to the cockpit displays and the maintenance system"
+    ],
+    "answer": 3,
+    "explanation": "Two FCDCs acquire data from the primary and secondary flight control computers and send it to the electronic instrument system and the central maintenance system.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "hard",
+    "source": "SKYbrary: Flight Control Laws",
+    "sourceUrl": "https://www.skybrary.aero/articles/flight-control-laws",
+    "reviewed": true
+  },
+  {
+    "id": "q034",
+    "question": "In Normal Law flight mode, what does the A320 sidestick deflection command?",
+    "options": [
+      "Angle of attack",
+      "Load factor",
+      "Pitch rate",
+      "Elevator position directly"
+    ],
+    "answer": 1,
+    "explanation": "In Normal Law flight mode the sidestick commands a load factor proportional to deflection, independent of aircraft speed.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "hard",
+    "source": "SKYbrary: Flight Control Laws",
+    "sourceUrl": "https://www.skybrary.aero/articles/flight-control-laws",
+    "reviewed": true
+  },
+  {
+    "id": "q035",
+    "question": "What are the three primary Airbus flight control laws?",
+    "options": [
+      "Normal, Standby and Manual",
+      "Normal, Alternate and Direct",
+      "Primary, Secondary and Direct",
+      "Auto, Alternate and Mechanical"
+    ],
+    "answer": 1,
+    "explanation": "The three primary flight control laws are Normal, Alternate and Direct, with a mechanical backup beyond them.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "medium",
+    "source": "SKYbrary: Flight Control Laws",
+    "sourceUrl": "https://www.skybrary.aero/articles/flight-control-laws",
+    "reviewed": true
+  },
+  {
+    "id": "q036",
+    "question": "Which ICAO Annex deals with the Airworthiness of Aircraft?",
+    "options": [
+      "Annex 6",
+      "Annex 8",
+      "Annex 13",
+      "Annex 1"
+    ],
+    "answer": 1,
+    "explanation": "Annex 8 is Airworthiness of Aircraft.",
+    "ata": null,
+    "category": "ICAO Annexes",
+    "difficulty": "easy",
+    "source": "SKYbrary: ICAO Annexes and Doc Series",
+    "sourceUrl": "https://skybrary.aero/articles/icao-annexes-and-doc-series",
+    "reviewed": true
+  },
+  {
+    "id": "q037",
+    "question": "Which ICAO Annex deals with Personnel Licensing?",
+    "options": [
+      "Annex 1",
+      "Annex 2",
+      "Annex 8",
+      "Annex 19"
+    ],
+    "answer": 0,
+    "explanation": "Annex 1 is Personnel Licensing.",
+    "ata": null,
+    "category": "ICAO Annexes",
+    "difficulty": "easy",
+    "source": "SKYbrary: ICAO Annexes and Doc Series",
+    "sourceUrl": "https://skybrary.aero/articles/icao-annexes-and-doc-series",
+    "reviewed": true
+  },
+  {
+    "id": "q038",
+    "question": "Which ICAO Annex deals with Aircraft Accident and Incident Investigation?",
+    "options": [
+      "Annex 6",
+      "Annex 13",
+      "Annex 14",
+      "Annex 19"
+    ],
+    "answer": 1,
+    "explanation": "Annex 13 is Aircraft Accident and Incident Investigation.",
+    "ata": null,
+    "category": "ICAO Annexes",
+    "difficulty": "easy",
+    "source": "SKYbrary: ICAO Annexes and Doc Series",
+    "sourceUrl": "https://skybrary.aero/articles/icao-annexes-and-doc-series",
+    "reviewed": true
+  },
+  {
+    "id": "q039",
+    "question": "Which ICAO Annex deals with Safety Management?",
+    "options": [
+      "Annex 19",
+      "Annex 13",
+      "Annex 17",
+      "Annex 6"
+    ],
+    "answer": 0,
+    "explanation": "Annex 19 is Safety Management.",
+    "ata": null,
+    "category": "ICAO Annexes",
+    "difficulty": "easy",
+    "source": "SKYbrary: ICAO Annexes and Doc Series",
+    "sourceUrl": "https://skybrary.aero/articles/icao-annexes-and-doc-series",
+    "reviewed": true
+  },
+  {
+    "id": "q040",
+    "question": "Which ICAO Annex deals with the Operation of Aircraft?",
+    "options": [
+      "Annex 7",
+      "Annex 10",
+      "Annex 2",
+      "Annex 6"
+    ],
+    "answer": 3,
+    "explanation": "Annex 6 is Operation of Aircraft.",
+    "ata": null,
+    "category": "ICAO Annexes",
+    "difficulty": "easy",
+    "source": "SKYbrary: ICAO Annexes and Doc Series",
+    "sourceUrl": "https://skybrary.aero/articles/icao-annexes-and-doc-series",
+    "reviewed": true
+  },
+  {
+    "id": "q041",
+    "question": "Which ICAO Annex deals with Aircraft Nationality and Registration Marks?",
+    "options": [
+      "Annex 8",
+      "Annex 7",
+      "Annex 9",
+      "Annex 5"
+    ],
+    "answer": 1,
+    "explanation": "Annex 7 is Aircraft Nationality and Registration Marks.",
+    "ata": null,
+    "category": "ICAO Annexes",
+    "difficulty": "medium",
+    "source": "SKYbrary: ICAO Annexes and Doc Series",
+    "sourceUrl": "https://skybrary.aero/articles/icao-annexes-and-doc-series",
+    "reviewed": true
+  },
+  {
+    "id": "q042",
+    "question": "ICAO Doc 9760 is which manual?",
+    "options": [
+      "The Manual on Aerial Work",
+      "The Safety Management Manual",
+      "The Convention on International Civil Aviation",
+      "The Airworthiness Manual"
+    ],
+    "answer": 3,
+    "explanation": "Doc 9760 is the ICAO Airworthiness Manual.",
+    "ata": null,
+    "category": "ICAO Annexes",
+    "difficulty": "hard",
+    "source": "Swiss FOCA: ICAO Annexes and documents",
+    "sourceUrl": "https://www.bazl.admin.ch/bazl/en/home/themen/legislation/anhaenge-icao.html",
+    "reviewed": true
+  },
+  {
+    "id": "q043",
+    "question": "What does LRU stand for?",
+    "options": [
+      "Line Replaceable Unit",
+      "Linear Regulator Unit",
+      "Landing Recovery Unit",
+      "Low Resistance Unit"
+    ],
+    "answer": 0,
+    "explanation": "A Line Replaceable Unit is a component that can be replaced quickly on the aircraft line.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "TODO",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q044",
+    "question": "What does AD stand for in airworthiness?",
+    "options": [
+      "Airworthiness Directive",
+      "Annual Defect",
+      "Approved Deviation",
+      "Aircraft Delivery"
+    ],
+    "answer": 0,
+    "explanation": "An Airworthiness Directive is a mandatory instruction issued by an aviation authority.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "TODO",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q045",
+    "question": "What does MEL stand for?",
+    "options": [
+      "Maintenance Entry Log",
+      "Mandatory Equipment Label",
+      "Maximum Engine Load",
+      "Minimum Equipment List"
+    ],
+    "answer": 3,
+    "explanation": "The Minimum Equipment List sets out which equipment may be inoperative for dispatch.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "TODO",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q046",
+    "question": "What does AMM stand for?",
+    "options": [
+      "Aircraft Maintenance Manual",
+      "Approved Maintenance Method",
+      "Airworthiness Management Manual",
+      "Aircraft Modification Manual"
+    ],
+    "answer": 0,
+    "explanation": "AMM is the Aircraft Maintenance Manual.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "TODO",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q047",
+    "question": "What does IPC stand for in maintenance documentation?",
+    "options": [
+      "Installed Parts Certificate",
+      "Inspection Planning Chart",
+      "Illustrated Parts Catalogue",
+      "Integrated Part Code"
+    ],
+    "answer": 2,
+    "explanation": "IPC is the Illustrated Parts Catalogue.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "TODO",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q048",
+    "question": "In technical records, what does TSN usually mean?",
+    "options": [
+      "Time Since Navigation",
+      "Total System Number",
+      "Technical Service Notice",
+      "Time Since New"
+    ],
+    "answer": 3,
+    "explanation": "TSN is Time Since New.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "TODO",
+    "sourceUrl": "",
+    "reviewed": true
+
+  },
+  {
+    "id": "q049",
+    "question": "In technical records, what does CSN usually mean?",
+    "options": [
+      "Check Sheet Number",
+      "Component Service Notice",
+      "Cabin Safety Notice",
+      "Cycles Since New"
+    ],
+    "answer": 3,
+    "explanation": "CSN is Cycles Since New.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "TODO",
+    "sourceUrl": "",
+    "reviewed": true
+
+  },
+  {
+    "id": "q050",
+    "question": "What does SB stand for in aircraft maintenance?",
+    "options": [
+      "Support Bulletin",
+      "Service Bulletin",
+      "Safety Briefing",
+      "Standard Baseline"
+    ],
+    "answer": 1,
+    "explanation": "A Service Bulletin is a manufacturer document recommending or describing a modification or inspection.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "TODO",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q051",
+    "question": "What does FADEC stand for?",
+    "options": [
+      "Flight Auto-Descent Engine Control",
+      "Full Airframe Diagnostic Engine Computer",
+      "Full Authority Digital Engine Control",
+      "Fuel And Defrost Electronic Control"
+    ],
+    "answer": 2,
+    "explanation": "FADEC is Full Authority Digital Engine Control.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "medium",
+    "source": "TODO",
+    "sourceUrl": "",
+    "reviewed": true
+  },{
+    "id": "q052",
+    "question": "Why do commercial transport aircraft use 115V AC electrical power at 400 Hz instead of 50 Hz or 60 Hz?",
+    "options": [
+      "400 Hz generators and transformers require much smaller, lighter magnetic iron cores",
+      "400 Hz travels much further over long cables with zero voltage drop",
+      "400 Hz prevents static electricity from building up on the fuselage skin",
+      "400 Hz can be stored directly inside lead-acid and nickel-cadmium batteries"
+    ],
+    "answer": 0,
+    "explanation": "Higher alternating current frequency allows magnetic cores in generators and transformers to be roughly one-third to one-fourth the weight of 50/60 Hz units without reaching magnetic saturation.",
+    "ata": 24,
+    "ataTitle": "Electrical Power",
+    "difficulty": "medium",
+    "source": "EASA Part-66 Module 3 / ATA 24",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q053",
+    "question": "What is the primary purpose of an Integrated Drive Generator (IDG) on an aircraft engine?",
+    "options": [
+      "To convert 28V DC battery power into 115V AC power",
+      "To convert variable engine gearbox RPM into a constant generator speed for fixed 400 Hz output",
+      "To start the main engine electrically without using APU bleed air",
+      "To regulate cabin pressurization outflow valves during climb"
+    ],
+    "answer": 1,
+    "explanation": "An IDG combines a Constant Speed Drive (CSD) and an AC generator in a single housing so that variable engine N2 speed is converted into a constant RPM, maintaining a steady 400 Hz output frequency.",
+    "ata": 24,
+    "ataTitle": "Electrical Power",
+    "difficulty": "medium",
+    "source": "A320 FCOM / ATA 24 Electrical Power",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q054",
+    "question": "If an Integrated Drive Generator (IDG) is disconnected in flight due to high oil temperature, how is it reconnected?",
+    "options": [
+      "It automatically reconnects once the oil cools below 100°C",
+      "By pulling and resetting the IDG circuit breaker on the overhead panel in flight",
+      "It can only be mechanically reset on the ground by maintenance personnel with engines shut down",
+      "By cycling the APU generator switch off and on"
+    ],
+    "answer": 2,
+    "explanation": "Disconnecting an IDG mechanically separates the drive clutch inside the unit. It cannot be reconnected in flight and must be reset manually on the ground via the reset ring on the IDG housing with the engine stopped.",
+    "ata": 24,
+    "ataTitle": "Electrical Power",
+    "difficulty": "hard",
+    "source": "Airbus A320 AMM ATA 24",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q055",
+    "question": "What device converts 115V AC into 28V DC on a commercial aircraft?",
+    "options": [
+      "Static Inverter",
+      "Transformer Rectifier Unit (TRU)",
+      "Constant Speed Drive (CSD)",
+      "Bus Tie Contactor (BTC)"
+    ],
+    "answer": 1,
+    "explanation": "A Transformer Rectifier Unit (TRU) steps down 115V AC to 28V AC using a transformer and converts it into 28V DC using a full-wave rectifier.",
+    "ata": 24,
+    "ataTitle": "Electrical Power",
+    "difficulty": "easy",
+    "source": "DGCA CAR-66 Module 3 / ATA 24",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q056",
+    "question": "What is the role of the Static Inverter in an aircraft electrical system?",
+    "options": [
+      "It converts 28V DC from the batteries into 115V 400 Hz AC for essential instruments during an emergency",
+      "It discharges static electricity from the trailing edge of the wings",
+      "It converts 115V AC into 28V DC to charge the main batteries",
+      "It connects the Ground Power Unit (GPU) to the service bus"
+    ],
+    "answer": 0,
+    "explanation": "When normal AC generators are lost, the Static Inverter converts 28V DC battery power into 115V 400 Hz single-phase AC to power the AC Essential Bus.",
+    "ata": 24,
+    "ataTitle": "Electrical Power",
+    "difficulty": "medium",
+    "source": "A320 FCOM / ATA 24",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q057",
+    "question": "Why are transport-category aircraft tyres inflated with dry nitrogen instead of regular compressed shop air?",
+    "options": [
+      "Nitrogen is 50% lighter than air, reducing landing gear retraction loads",
+      "Nitrogen eliminates moisture that freezes at altitude and keeps oxygen below 5% to prevent internal tyre auto-ignition",
+      "Nitrogen reacts chemically with rubber to make the tread wear slower on concrete",
+      "Nitrogen expands three times faster under heat to cushion hard landings"
+    ],
+    "answer": 1,
+    "explanation": "Dry nitrogen contains zero moisture (preventing ice in valve cores at -55°C) and is an inert gas that prevents volatile rubber gases from auto-igniting or feeding a brake fire if thermal fusible plugs melt.",
+    "ata": 32,
+    "ataTitle": "Landing Gear",
+    "difficulty": "easy",
+    "source": "FAA AD 87-08-09 / ATA 32",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q058",
+    "question": "What is the purpose of thermal fusible plugs installed in aircraft main landing gear wheel rims?",
+    "options": [
+      "To lock the wheel rim halves together if a bolt shears",
+      "To melt at a calibrated temperature and deflate the tyre safely before extreme brake heat causes a violent tyre explosion",
+      "To measure carbon brake wear during the walkaround inspection",
+      "To bleed off excess hydraulic fluid pressure in the brake pistons"
+    ],
+    "answer": 1,
+    "explanation": "Fusible plugs contain a low-melting-point eutectic alloy core that melts if brake heat becomes excessive (such as after a Rejected Takeoff), releasing nitrogen pressure smoothly rather than letting the tyre burst.",
+    "ata": 32,
+    "ataTitle": "Landing Gear",
+    "difficulty": "medium",
+    "source": "ATA 32 Wheel and Brake Maintenance",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q059",
+    "question": "On an Airbus A320, what is the maximum brake temperature limit above which takeoff is normally prohibited (with brake fans off)?",
+    "options": [
+      "150°C",
+      "300°C",
+      "600°C",
+      "900°C"
+    ],
+    "answer": 1,
+    "explanation": "On the A320 family, brake temperatures must be at or below 300°C (with brake fans off) prior to takeoff to prevent retracting an overheated wheel/brake assembly into a confined wheel well with hydraulic lines and tyres.",
+    "ata": 32,
+    "ataTitle": "Landing Gear",
+    "difficulty": "medium",
+    "source": "A320 FCOM Limitations ATA 32",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q060",
+    "question": "What causes the primary wear on Carbon-Carbon aircraft brake discs during routine airline operations?",
+    "options": [
+      "Only maximum-effort rejected takeoffs",
+      "Rainwater washing over the discs on wet runways",
+      "The total number of brake pedal applications (especially light taxi snubbing), rather than purely braking force",
+      "Aerodynamic drag while the landing gear is extended on approach"
+    ],
+    "answer": 2,
+    "explanation": "Unlike steel brakes where wear is strictly proportional to kinetic energy absorbed, carbon brake wear is heavily driven by the number of mechanical engagements (pedal applications) during taxi.",
+    "ata": 32,
+    "ataTitle": "Landing Gear",
+    "difficulty": "medium",
+    "source": "Airbus Flight Operations Briefing Notes: Braking Systems",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q061",
+    "question": "What is the purpose of the 'Nose Wheel Steering Bypass Pin' inserted by ground crew before pushback?",
+    "options": [
+      "It locks the nose gear up-lock hook so the gear cannot retract on the ground",
+      "It mechanically/hydraulically isolates nosewheel steering hydraulics so the tow tug can turn the nosewheel beyond normal steering angles without damaging actuators",
+      "It disconnects the cockpit rudder pedals from the tail rudder",
+      "It applies the emergency parking brake if the towbar shears"
+    ],
+    "answer": 1,
+    "explanation": "The steering bypass pin places the nosewheel steering hydraulic loop into bypass mode, allowing the pushback tug to pivot the nosewheel freely without fighting pressurized hydraulic steering actuators.",
+    "ata": 32,
+    "ataTitle": "Landing Gear",
+    "difficulty": "easy",
+    "source": "AMM ATA 09 / ATA 32 Towing and Taxiing",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q062",
+    "question": "Inside a landing gear shock-absorber strut (Oleo Strut), which two substances work together to absorb impact energy and support the aircraft?",
+    "options": [
+      "Compressed dry nitrogen gas and mineral hydraulic fluid (MIL-PRF-5606 / 83282)",
+      "Compressed shop air and heavy gear grease",
+      "Liquid oxygen and purple Skydrol fluid",
+      "Steel coil springs and water-glycol mixture"
+    ],
+    "answer": 0,
+    "explanation": "An oleo-pneumatic shock strut forces hydraulic oil through a Metering Orifice to absorb the kinetic energy of touchdown impact, while compressed dry nitrogen gas acts as the elastic spring supporting the aircraft during taxi.",
+    "ata": 32,
+    "ataTitle": "Landing Gear",
+    "difficulty": "medium",
+    "source": "ATA 32 Landing Gear Principles",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q063",
+    "question": "Why are commercial aircraft tyres moulded with straight circumferential 'rib' grooves rather than car-style cross-cut tread blocks?",
+    "options": [
+      "Straight grooves are cheaper to cut by hand at the airport",
+      "Straight ribs channel water away to prevent hydroplaning while resisting the extreme 200-knot centrifugal and spin-up shear forces that would tear tread blocks off",
+      "Cross-cut tread blocks would jam inside the wheel well doors during retraction",
+      "Aircraft wheels have electric drive motors that don't require lateral grip"
+    ],
+    "answer": 1,
+    "explanation": "Aircraft wheels are unpowered, free-rolling tyres that touch down at 140–170 knots. Straight rib grooves provide directional lateral stability and water evacuation without individual blocks chunking off under high-speed shear.",
+    "ata": 32,
+    "ataTitle": "Landing Gear",
+    "difficulty": "easy",
+    "source": "Michelin Aircraft Tire Engineering Manual",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q064",
+    "question": "Why is synthetic Phosphate-Ester hydraulic fluid (such as Skydrol) used in commercial airliners instead of red petroleum mineral oil?",
+    "options": [
+      "It is completely non-toxic and gentle on bare skin and paint",
+      "It is fire-resistant and self-extinguishing if a 3,000 PSI pinhole leak sprays mist onto hot brakes or engine ducts",
+      "It freezes at 0°C to seal leaks automatically at cruise altitude",
+      "It can be mixed in any ratio with engine oil and jet fuel"
+    ],
+    "answer": 1,
+    "explanation": "Phosphate-ester fluid has a very high auto-ignition temperature (>500°C) and resists flame propagation if a high-pressure 3,000 PSI line ruptures into a fine aerosol mist near hot components.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "easy",
+    "source": "ATA 29 Hydraulic Power",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q065",
+    "question": "Which type of synthetic rubber seal material is compatible with Phosphate-Ester (Skydrol) hydraulic systems?",
+    "options": [
+      "Natural latex rubber",
+      "Standard Nitrile (Buna-N)",
+      "EPDM (Ethylene Propylene Diene Monomer)",
+      "Neoprene sponge"
+    ],
+    "answer": 2,
+    "explanation": "Phosphate-ester hydraulic fluids require EPDM (or PTFE/Teflon) seals; installing standard nitrile (Buna-N) seals meant for mineral oil will cause the seals to swell, soften, and disintegrate.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "hard",
+    "source": "AMM Chapter 20 / ATA 29 Standard Practices",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q066",
+    "question": "Why are hydraulic reservoirs on transport aircraft pressurized (typically to ~40–50 psi with bleed air)?",
+    "options": [
+      "To cool the hydraulic fluid below -20°C in flight",
+      "To prevent pump cavitation and fluid foaming at high altitude where ambient atmospheric pressure is very low",
+      "To push the landing gear down if the gravity extension handle jams",
+      "To operate the passenger cabin doors when the aircraft is parked"
+    ],
+    "answer": 1,
+    "explanation": "Pressurizing the hydraulic reservoir ensures a positive head of fluid enters the high-speed engine-driven and electric pumps at high altitude, preventing dissolved air from bubbling out and causing destructive pump cavitation.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "medium",
+    "source": "ATA 29 Hydraulic Power",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q067",
+    "question": "What is the function of a 'Hydraulic Fuse' installed in a brake or leading-edge slat supply line?",
+    "options": [
+      "It melts if the hydraulic fluid temperature exceeds 120°C",
+      "It senses an abnormally high flow rate caused by a ruptured downstream pipe and slams shut to prevent losing the entire system's fluid",
+      "It filters microscopic metal particles out of the return line",
+      "It converts 3,000 psi pressure down to 500 psi for cabin gauges"
+    ],
+    "answer": 1,
+    "explanation": "A hydraulic fuse measures volumetric flow or pressure drop; if a downstream line is severed (for example, by a tyre burst in the wheel well), the sudden surge in flow closes the fuse and preserves the main hydraulic reservoir.",
+    "ata": 29,
+    "ataTitle": "Hydraulic Power",
+    "difficulty": "medium",
+    "source": "ATA 29 Hydraulic Power",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q068",
+    "question": "How is cabin altitude (cabin pressurization) actively controlled during normal flight?",
+    "options": [
+      "By turning the engine bleed air compressors on and off every two minutes",
+      "By modulating the position of the motorized Outflow Valve(s) to vary how fast conditioned air escapes overboard",
+      "By pumping pure oxygen from high-pressure cylinders into the cabin ducts",
+      "By inflating rubber bladders inside the fuselage sidewalls"
+    ],
+    "answer": 1,
+    "explanation": "Conditioned bleed air is supplied continuously into the cabin by the ECS Packs, while the Cabin Pressure Controller modulates the Outflow Valve(s) near the aft belly to regulate the rate of air escaping.",
+    "ata": 21,
+    "ataTitle": "Air Conditioning",
+    "difficulty": "easy",
+    "source": "ATA 21 Pressurization Control",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q069",
+    "question": "In an aircraft Air Conditioning Pack, what is the role of the Air Cycle Machine (ACM)?",
+    "options": [
+      "It burns a small amount of jet fuel to warm the cabin during polar flights",
+      "It compresses hot engine bleed air, cools it across ram-air heat exchangers, and expands it across a turbine to drop its temperature dramatically",
+      "It adds humidity to the cockpit windshields to prevent static",
+      "It pumps lavatory waste into the aft holding tank"
+    ],
+    "answer": 1,
+    "explanation": "The Air Cycle Machine (ACM) uses a compressor, ram-air heat exchangers, and an expansion turbine on a common shaft to refrigerate +200°C engine bleed air down to near 0°C without heavy liquid chemical refrigerants.",
+    "ata": 21,
+    "ataTitle": "Air Conditioning",
+    "difficulty": "medium",
+    "source": "ATA 21 Environmental Control System",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q070",
+    "question": "What does pressing the guarded 'DITCHING' pushbutton on the Airbus A320 overhead pressurization panel do?",
+    "options": [
+      "It fires the emergency evacuation slides while the aircraft is still in the air",
+      "It dumps all wing fuel overboard in 90 seconds",
+      "It closes the Outflow Valve, ram-air inlet, avionics ventilation valves, and pack flow valves below the waterline so the fuselage floats",
+      "It detaches the engine pylons upon water impact"
+    ],
+    "answer": 2,
+    "explanation": "The DITCHING switch sends a close signal to all valves and openings below the fuselage waterline (outflow valve, pack inlets, extract valves) to make the lower hull as watertight as possible for a water landing.",
+    "ata": 21,
+    "ataTitle": "Air Conditioning",
+    "difficulty": "medium",
+    "source": "A320 FCOM ATA 21 Pressurization",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q071",
+    "question": "Why do cabin air conditioning vents suddenly go quiet right before main engine start at pushback?",
+    "options": [
+      "The pilots turn off all electrical buses to protect the cockpit screens",
+      "The Pack Flow Control Valves close automatically so 100% of APU bleed air pressure is routed to the engine Air Turbine Starters",
+      "The cabin Outflow Valve opens fully to depressurize the cargo hold",
+      "The recirculation HEPA filters run a reverse self-cleaning cycle"
+    ],
+    "answer": 1,
+    "explanation": "Starting a large turbofan requires maximum pneumatic pressure and airflow from the APU. Closing the ECS Pack valves ensures all APU bleed air is directed to the starter motor.",
+    "ata": 36,
+    "ataTitle": "Pneumatic",
+    "difficulty": "easy",
+    "source": "ATA 36 / ATA 80 Engine Starting",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q072",
+    "question": "Why are commercial aircraft designed to store fuel inside the wings AND burn the Center Wing Tank before the Wing Tanks?",
+    "options": [
+      "Fuel in the wings is closer to the cockpit gauges for more accurate readings",
+      "Keeping fuel weight distributed out in the wings counteracts upward aerodynamic lift ('Wing Bending Relief'), reducing structural stress at the wing roots",
+      "Wing tank fuel is colder, so burning it first would freeze the engine fuel nozzles",
+      "The center tank has no fuel boost pumps and relies on gravity alone"
+    ],
+    "answer": 1,
+    "explanation": "In flight, the wings lift the heavy fuselage hung in the center. Keeping fuel weight out in the wings for as long as possible acts downward against aerodynamic lift, relieving upward bending stress on the main wing box spars.",
+    "ata": 28,
+    "ataTitle": "Fuel",
+    "difficulty": "medium",
+    "source": "ATA 28 Fuel System Design",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q073",
+    "question": "What keeps Jet A-1 fuel from freezing solid during a 12-hour flight when the outside Static Air Temperature (SAT) is -56°C?",
+    "options": [
+      "High-wattage electric immersion heater coils inside every wing rib bay",
+      "Aerodynamic friction heating ('Ram Rise' / Total Air Temperature) on the wing skin plus heat transfer through the engine Fuel-Cooled Oil Cooler (FCOC)",
+      "Mixing 30% automotive antifreeze into the fuel truck before departure",
+      "Pressurizing the wing tanks to 3,000 psi"
+    ],
+    "answer": 1,
+    "explanation": "At Mach 0.82, air friction and compression warm the wing skin (Total Air Temperature) by ~25°C above SAT, and before fuel enters the engine filter, hot engine oil warms it inside the Fuel-Cooled Oil Cooler (FCOC).",
+    "ata": 28,
+    "ataTitle": "Fuel",
+    "difficulty": "medium",
+    "source": "ATA 28 / Flight Operations Briefing",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q074",
+    "question": "How does a modern aircraft Fuel Quantity Indicating System (FQIS) accurately measure fuel mass in kilograms despite fuel expanding and contracting with temperature?",
+    "options": [
+      "Using simple mechanical cork floats connected to potentiometers",
+      "Using tubular capacitance probes (whose dielectric constant varies with fuel level and density) combined with densitometers/compensators",
+      "Using ultrasonic cameras mounted on the upper wing skin",
+      "By counting rotations of the refueling truck meter only"
+    ],
+    "answer": 1,
+    "explanation": "Capacitive fuel probes use Jet A-1 as the dielectric between two concentric metal tubes. Because the dielectric constant of kerosene varies with density, capacitance probes (with compensators/densitometers) measure true fuel mass rather than just volume.",
+    "ata": 28,
+    "ataTitle": "Fuel",
+    "difficulty": "hard",
+    "source": "ATA 28 Fuel Quantity Indicating",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q075",
+    "question": "What is the purpose of the Nitrogen Generation System (NGS / OBIGGS) in ATA 28 / 47 on modern airliners?",
+    "options": [
+      "To re-inflate landing gear tyres automatically during flight",
+      "To pump nitrogen-enriched air into the Center Wing Tank ullage space so oxygen stays below 12% and fuel vapours cannot ignite",
+      "To supply emergency breathing gas to the passenger cabin masks",
+      "To cool the cockpit avionics racks during ground turnarounds"
+    ],
+    "answer": 1,
+    "explanation": "Developed after the 1996 TWA Flight 800 investigation, the NGS uses Air Separation Modules (ASMs) to separate oxygen from bleed air and flood the fuel tank air space with inert nitrogen-enriched air (<12% O2).",
+    "ata": 28,
+    "ataTitle": "Fuel",
+    "difficulty": "medium",
+    "source": "FAA SFAR 88 / ATA 47 Inert Gas System",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q076",
+    "question": "How is emergency oxygen generated for passengers when the yellow masks drop in most commercial airliners (like the A320 and B737)?",
+    "options": [
+      "From a single massive 3,000 psi liquid oxygen tank in the tailcone",
+      "By pulling the mask lanyard, which triggers a firing pin on an overhead Chemical Oxygen Generator containing Sodium Chlorate and Iron powder",
+      "By diverting compressed bleed air straight from the engines into the masks",
+      "By electrolysis of potable water from the galley tanks"
+    ],
+    "answer": 1,
+    "explanation": "Pulling a passenger mask pulls a retaining pin from a percussion cap, igniting iron powder and thermally decomposing a solid brick of Sodium Chlorate (NaClO3) into harmless salt (NaCl) and breathable oxygen gas for 12–22 minutes.",
+    "ata": 35,
+    "ataTitle": "Oxygen",
+    "difficulty": "easy",
+    "source": "ATA 35 Passenger Oxygen",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q077",
+    "question": "Why does the flight deck (cockpit crew) oxygen system use high-pressure gaseous oxygen cylinders with Quick-Donning masks rather than chemical oxygen generators?",
+    "options": [
+      "Chemical oxygen generators are too heavy to mount in the cockpit ceiling",
+      "Crew masks must provide 100% pure oxygen under positive pressure to keep toxic smoke and fumes out of the pilots' lungs and goggles during an in-flight fire",
+      "Pilots require oxygen continuously from takeoff to landing on every flight",
+      "Gaseous cylinders never require hydrostatic testing or pressure checks"
+    ],
+    "answer": 1,
+    "explanation": "Passenger masks mix cabin air with oxygen (which would inhale smoke during a fire). Flight crew quick-donning masks seal tightly and can supply 100% oxygen under positive pressure to prevent smoke ingress.",
+    "ata": 35,
+    "ataTitle": "Oxygen",
+    "difficulty": "medium",
+    "source": "ATA 35 Crew Oxygen System",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q078",
+    "question": "Why is Cockpit Window Heat turned ON before every flight, even on a warm +30°C sunny afternoon?",
+    "options": [
+      "To burn off insects that hit the glass during takeoff",
+      "To keep the thick inner vinyl (PVB) interlayer warm and elastic so it can stretch like a net and survive a high-speed bird strike without shattering",
+      "To improve VHF radio reception through the cockpit windows",
+      "To prevent the windshield wipers from sticking to the glass"
+    ],
+    "answer": 1,
+    "explanation": "At freezing altitude temperatures, the Polyvinyl Butyral (PVB) plastic interlayer inside laminated cockpit windshields becomes brittle. Heating it to ~40°C keeps the vinyl resilient so it absorbs bird-strike impact energy.",
+    "ata": 30,
+    "ataTitle": "Ice and Rain Protection",
+    "difficulty": "medium",
+    "source": "ATA 30 / ATA 56 Windows",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q079",
+    "question": "How are the wing leading-edge slats and engine air intakes anti-iced on an Airbus A320 or Boeing 737?",
+    "options": [
+      "By inflating and deflating black rubber pneumatic boots on the leading edge",
+      "By routing hot pneumatic bleed air tapped from the engine compressor through internal piccolo tubes inside the leading edges",
+      "By spraying green Type IV de-icing gel from nozzles on the nosecone in flight",
+      "By circulating hot purple Skydrol hydraulic fluid through the wingtips"
+    ],
+    "answer": 1,
+    "explanation": "Jet transport aircraft route hot engine compressor bleed air through perforated 'piccolo' ducts along the inside of the engine cowl lip and outboard wing leading-edge slats to prevent ice accretion.",
+    "ata": 30,
+    "ataTitle": "Ice and Rain Protection",
+    "difficulty": "easy",
+    "source": "ATA 30 Ice and Rain Protection",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q080",
+    "question": "When an Engine Fire Handle (or ENG FIRE pushbutton) is pulled in the cockpit, what happens immediately?",
+    "options": [
+      "Both Halon fire bottles automatically discharge into the engine core intake",
+      "Fuel LP valve, hydraulic fire shutoff valve, bleed air valve, and generator are all isolated, and the fire bottle squibs are armed",
+      "The thrust reverser deploys to slow the aircraft down",
+      "The engine starter motor engages automatically to blow the fire out"
+    ],
+    "answer": 1,
+    "explanation": "Pulling the Engine Fire switch isolates all flammable fluids, electricity, and cabin bleed air from that engine and arms the explosive discharge squibs—requiring a second deliberate action (twisting/pressing Agent 1) to fire the Halon bottle.",
+    "ata": 26,
+    "ataTitle": "Fire Protection",
+    "difficulty": "medium",
+    "source": "ATA 26 Fire Protection",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q081",
+    "question": "How do modern Class C belly cargo hold fire suppression systems keep a luggage fire under control during a 180-minute ETOPS ocean diversion?",
+    "options": [
+      "By opening belly doors to vent all air into the stratosphere",
+      "By spraying 2,000 litres of potable water from overhead sprinkler nozzles",
+      "By sealing off cargo ventilation valves, firing a High-Rate Halon bottle for initial knockdown, and slowly metering a second Low-Rate Halon bottle over hours",
+      "By flooding the cargo hold with engine exhaust gas"
+    ],
+    "answer": 2,
+    "explanation": "Class C cargo compartments isolate ventilation to starve oxygen, discharge a high-rate Halon 1301 shot to knock down flames, and then trickle Halon through a metering system to maintain a >3% inert concentration until landing.",
+    "ata": 26,
+    "ataTitle": "Fire Protection",
+    "difficulty": "medium",
+    "source": "ATA 26 Cargo Fire Suppression",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q082",
+    "question": "Why are lavatory sink and galley 'grey water' drain masts on the bottom of the fuselage electrically heated?",
+    "options": [
+      "To boil away bacteria before the water touches the runway",
+      "To prevent grey water vented overboard in flight from freezing into heavy blocks of ice at -56°C that could strike the tail or engines",
+      "To keep the cabin floor warm near the galley doors",
+      "To generate steam for the cabin humidifiers"
+    ],
+    "answer": 1,
+    "explanation": "Sink and galley grey water is drained continuously overboard via aerodynamic drain masts; electric heaters prevent the water from freezing solid on the mast tip at high altitude.",
+    "ata": 38,
+    "ataTitle": "Water/Waste",
+    "difficulty": "easy",
+    "source": "ATA 38 Water and Waste",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q083",
+    "question": "Above approximately 16,000 feet in cruise, what provides the suction to flush an aircraft vacuum toilet?",
+    "options": [
+      "A high-pressure hydraulic motor mounted under each toilet seat",
+      "The natural pressure differential (~8.5 psi) between the pressurized cabin and the aft waste tank (which is vented to the low-pressure outside atmosphere)",
+      "Bleed air tapped directly off the #2 engine fan",
+      "Gravity alone"
+    ],
+    "answer": 1,
+    "explanation": "On the ground and at low altitude, an electric Vacuum Blower creates suction in the waste tank. Above ~16,000 feet, the ambient outside pressure is so much lower than cabin pressure that natural differential pressure flushes the line without running the blower.",
+    "ata": 38,
+    "ataTitle": "Water/Waste",
+    "difficulty": "medium",
+    "source": "ATA 38 Vacuum Waste System",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q084",
+    "question": "What is the purpose of the tiny 1.5 mm 'Bleed Hole' (breather hole) near the bottom of a passenger cabin window?",
+    "options": [
+      "To allow fresh outside air to trickle directly into the passenger cabin",
+      "To equalize cabin air pressure between the inner and outer window panes so that the thick outer pane carries 100% of normal pressurization load while the middle pane stays unloaded as a fail-safe backup",
+      "To drain rainwater that leaks past the outside window frame",
+      "To allow mechanics to inject cleaning fluid between the panes"
+    ],
+    "answer": 1,
+    "explanation": "The bleed hole in the middle acrylic pane equalizes pressure across the middle pane so the outer structural pane takes the normal pressure load, leaving the middle pane unstressed as a reserve backup and preventing inter-pane condensation.",
+    "ata": 56,
+    "ataTitle": "Windows",
+    "difficulty": "easy",
+    "source": "ATA 56 Cabin Windows",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q085",
+    "question": "What happens mechanically when a flight attendant moves a cabin door lever from DISARMED to ARMED before pushback?",
+    "options": [
+      "It locks the exterior door handle so ground rescuers cannot open it from outside",
+      "It mechanically engages the evacuation slide's Girt Bar into brackets on the cabin floor threshold so opening the door pulls and inflates the slide",
+      "It pressurizes the rubber door seal with 3,000 psi hydraulic fluid",
+      "It switches on the cockpit door magnetic deadbolt"
+    ],
+    "answer": 1,
+    "explanation": "Arming the door drops the steel Girt Bar into floor brackets; if the door is opened while armed, the floor holds the girt bar and pulls the slide pack out of the door bustle, triggering pneumatic inflation. (Opening the door from the outside automatically disarms it!)",
+    "ata": 52,
+    "ataTitle": "Doors",
+    "difficulty": "easy",
+    "source": "ATA 52 Doors and Escape Slides",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q086",
+    "question": "Why is it physically impossible for a person to open a plug-type passenger cabin door at 36,000 feet cruise altitude?",
+    "options": [
+      "Because an electronic GPS lock disables the door handle above 10,000 feet",
+      "Because ~8.5 psi of cabin differential pressure exerts roughly 10 metric tonnes of outward force wedging the larger plug door against the inner fuselage frame",
+      "Because the outside -56°C cold freezes the rubber door seal solid",
+      "Because the cockpit crew holds a deadbolt switch down during cruise"
+    ],
+    "answer": 1,
+    "explanation": "At 8.5 psi differential pressure, more than 1,200 lbs of force presses outward on every square foot of the door. Because plug and semi-plug doors must move inward or lift off load-bearing stops first, no human can overcome the ~10-tonne pressure load.",
+    "ata": 52,
+    "ataTitle": "Doors",
+    "difficulty": "easy",
+    "source": "ATA 52 Doors",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q087",
+    "question": "How do modern carbon-fiber composite aircraft (such as the Boeing 787 and Airbus A350) safely conduct a 200,000-amp lightning strike across the exterior skin without burning the epoxy resin?",
+    "options": [
+      "They use thick rubber tyres that block lightning from hitting the aircraft in the air",
+      "They laminate a fine woven layer of expanded copper or bronze foil mesh into the outer ply of the carbon-fiber skin to act as a metallic Faraday cage",
+      "They spray conductive silver paint over the cabin windows",
+      "Carbon fiber naturally conducts electricity 10 times better than aluminum"
+    ],
+    "answer": 1,
+    "explanation": "Because carbon-fiber composite is roughly 1,000 times more resistive than aluminum, manufacturers embed an ultra-thin expanded copper or bronze mesh in the outer skin layer to dissipate lightning current safely across the surface.",
+    "ata": 51,
+    "ataTitle": "Standard Practices - Structures",
+    "difficulty": "medium",
+    "source": "ATA 51 Composite Lightning Protection",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q088",
+    "question": "What is the true function of the small rod-like 'Static Dischargers' (static wicks) mounted along the trailing edges of wings, ailerons, and stabilizers?",
+    "options": [
+      "To attract and catch lightning bolts during thunderstorms",
+      "To bleed continuous triboelectric friction static smoothly into the slipstream so it doesn't arc across control hinges and cause VHF radio noise",
+      "To measure wake turbulence behind the wingtips",
+      "To dump excess fuel vapour out of the wing surge tanks"
+    ],
+    "answer": 1,
+    "explanation": "Air, dust, and ice crystals rubbing against the airframe build up high-voltage static charges. Static wicks provide a low-resistance corona-discharge point to bleed that static smoothly into the wake without radio interference.",
+    "ata": 23,
+    "ataTitle": "Communications",
+    "difficulty": "easy",
+    "source": "ATA 23 / ATA 51 Bonding and Static Dischargers",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q089",
+    "question": "On a high-bypass turbofan engine, what do the cockpit gauges 'N1' and 'N2' represent?",
+    "options": [
+      "N1 is oil pressure and N2 is fuel flow",
+      "N1 is the rotational speed (% RPM) of the Low-Pressure Fan/Compressor spool, and N2 is the rotational speed (% RPM) of the High-Pressure core spool",
+      "N1 is Engine #1 speed and N2 is Engine #2 speed",
+      "N1 is forward thrust and N2 is reverse thrust"
+    ],
+    "answer": 1,
+    "explanation": "In a twin-spool turbofan, N1 measures the Low-Pressure (LP) shaft RPM (the big front fan and LP compressor driven by the LP turbine), while N2 measures the High-Pressure (HP) core shaft RPM (which drives the accessory gearbox).",
+    "ata": 77,
+    "ataTitle": "Engine Indicating",
+    "difficulty": "easy",
+    "source": "ATA 72 / ATA 77 Engine Indicating",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q090",
+    "question": "What does declining 'EGT Margin' (Exhaust Gas Temperature Margin) on a jet engine indicate to CAMO powerplant engineers?",
+    "options": [
+      "The engine is running cooler and more efficiently than when it was new",
+      "Compressor and turbine blade tip clearances and airfoils are wearing/fouling, forcing the engine to burn more fuel and run closer to its certified Redline EGT limit to produce takeoff thrust",
+      "The aircraft's fuel tanks are contaminated with water",
+      "The engine oil cooler is over-cooling the oil during cruise"
+    ],
+    "answer": 1,
+    "explanation": "EGT Margin is the temperature headroom between peak takeoff EGT and the certified Redline limit. As internal blade clearances widen with age, compressor efficiency drops, requiring higher fuel flow and higher EGT to hit target thrust.",
+    "ata": 72,
+    "ataTitle": "Engine",
+    "difficulty": "medium",
+    "source": "ATA 72 Engine Health Monitoring",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q091",
+    "question": "During a jet engine start sequence, what is a 'Hot Start'?",
+    "options": [
+      "Starting the engine on a sunny afternoon when ramp temperature is above 35°C",
+      "An abnormal start where Exhaust Gas Temperature (EGT) exceeds the certified starting limit because fuel was introduced with insufficient airflow/N2 rotation",
+      "Using the APU to start both engines at the exact same time",
+      "Pre-heating the engine oil with an electric blanket before flight"
+    ],
+    "answer": 1,
+    "explanation": "A Hot Start occurs when fuel ignites in the combustor without enough compressor airflow (low starter pressure, tailwind in tailpipe, or excessive fuel scheduling) to cool the turbine, causing EGT to spike toward or past redline.",
+    "ata": 80,
+    "ataTitle": "Starting",
+    "difficulty": "easy",
+    "source": "ATA 80 Engine Starting",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q092",
+    "question": "How does a jet engine Thrust Reverser slow the aircraft down after landing?",
+    "options": [
+      "By stopping the turbine shaft and spinning the front fan blades in the opposite direction",
+      "By deploying blocker doors/cascades that deflect cold fan bypass air (or exhaust) forward and outward at roughly a 45-degree angle",
+      "By locking the engine accessory gearbox with a carbon disc brake",
+      "By opening a drag parachute out of the engine tailcone"
+    ],
+    "answer": 1,
+    "explanation": "Jet engines never spin backward. Instead, hydraulic or pneumatic actuators slide the outer translating cowl rearward, swinging blocker doors into the bypass duct to redirect fan air forward through cascade vanes.",
+    "ata": 78,
+    "ataTitle": "Exhaust",
+    "difficulty": "easy",
+    "source": "ATA 78 Thrust Reversers",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q093",
+    "question": "Why are transport aircraft certified with a 'Limit Load' of +2.5G and an 'Ultimate Load' of +3.75G (a 1.5x safety factor)?",
+    "options": [
+      "So commercial airliners can perform aerobatic loops during test flights",
+      "So the airframe can withstand the maximum aerodynamic load expected in service (+2.5G) with zero permanent deformation, and hold 150% of that load (+3.75G) for 3 seconds without structural failure",
+      "Because cabin seats weigh 1.5 times more when passengers recline them",
+      "To allow the aircraft to land at 1.5 times its Maximum Takeoff Weight"
+    ],
+    "answer": 1,
+    "explanation": "Under CS-25 / FAR 25.303, Limit Load is the maximum load expected in service (no permanent set/yield allowed), while Ultimate Load (1.5 × Limit Load) is the point below which the structure must not fracture.",
+    "ata": 53,
+    "ataTitle": "Fuselage",
+    "difficulty": "medium",
+    "source": "EASA CS-25 / FAR Part 25 Structural Loads",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q094",
+    "question": "What is 'Damage-Tolerant Design' in modern aircraft structures?",
+    "options": [
+      "Building the skin out of solid armor plate so it can never dent",
+      "Engineering multiple parallel load paths and tear straps so that if a fatigue crack or damage occurs, the remaining structure safely carries flight loads until scheduled inspections detect the crack",
+      "Allowing an aircraft to fly indefinitely without ever inspecting for cracks",
+      "Making wings rigid so they never flex in turbulence"
+    ],
+    "answer": 1,
+    "explanation": "Damage tolerance assumes microscopic flaws or service damage can occur, using fail-safe multi-load-path structures and fracture-mechanics inspection intervals to guarantee any crack is caught long before reaching critical length.",
+    "ata": 53,
+    "ataTitle": "Fuselage",
+    "difficulty": "medium",
+    "source": "EASA CS 25.571 Damage Tolerance",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q095",
+    "question": "In aircraft structural blueprints and Dent & Buckle charts, what do 'Fuselage Station (STA)', 'Waterline (WL)', and 'Buttock Line (BL) / Stringer (STR)' measure?",
+    "options": [
+      "Airspeed, altitude, and rate of climb",
+      "Longitudinal distance from nose datum (STA), vertical height (WL), and lateral/circumferential distance from centerline (BL/STR)",
+      "Fuel tank capacity, water tank level, and waste tank weight",
+      "Paint thickness, rivet diameter, and bolt torque"
+    ],
+    "answer": 1,
+    "explanation": "Aircraft 3D structural coordinates locate any rivet or dent precisely using Station/Frame (fore-to-aft X-axis), Waterline (vertical Z-axis), and Buttock Line or Stringer number (lateral/circumferential Y-axis).",
+    "ata": 53,
+    "ataTitle": "Fuselage",
+    "difficulty": "easy",
+    "source": "ATA 06 / ATA 53 Structural Dimensions and Areas",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q096",
+    "question": "Why must an aircraft's Pitot Probes, Static Ports, and Angle-of-Attack (AoA) vanes be protected with bright red covers whenever the aircraft is parked for storage?",
+    "options": [
+      "To stop ultraviolet sunlight from fading the silver metal",
+      "To prevent insects (like mud-dauber wasps), dust, sand, or water from entering the tiny pressure tubes and causing fatal airspeed/altimeter errors on takeoff",
+      "To keep the cockpit warm overnight",
+      "To prevent mechanics from accidentally painting the cockpit windows"
+    ],
+    "answer": 1,
+    "explanation": "Blocked pitot or static ports corrupt Indicated Airspeed and altitude readings in flight (a known cause of fatal accidents such as Birgenair 301 and Aeroperú 603). Pitot/static covers prevent insect nests and FOD ingress on the ground.",
+    "ata": 34,
+    "ataTitle": "Navigation",
+    "difficulty": "easy",
+    "source": "AMM ATA 10 Parking and Mooring",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q097",
+    "question": "What is the critical difference between 'Indicated Airspeed' (IAS) measured by the Pitot-Static system and 'Ground Speed' (GS) measured by GPS?",
+    "options": [
+      "There is no difference; they are always identical in cruise",
+      "IAS measures the actual dynamic pressure of air molecules flowing over the wing (which governs stall and structural overspeed limits), whereas GS only measures speed over the Earth's surface",
+      "GPS Ground Speed is used to calculate wing stall speed in clouds",
+      "Indicated Airspeed only works below 10,000 feet"
+    ],
+    "answer": 1,
+    "explanation": "An aircraft wing only cares about the dynamic pressure of the air molecules striking it (Indicated Airspeed). At 38,000 feet in thin air with a tailwind, Ground Speed may be 550 knots while IAS is only 250 knots.",
+    "ata": 34,
+    "ataTitle": "Navigation",
+    "difficulty": "medium",
+    "source": "ATA 34 Air Data Systems",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q098",
+    "question": "When TCAS II (Traffic Alert and Collision Avoidance System) issues a red 'Resolution Advisory' (RA) like 'CLIMB, CLIMB!', which direction of maneuver can TCAS II command?",
+    "options": [
+      "Sharp left or right 45-degree bank turns only",
+      "Vertical pitch maneuvers ONLY (Climb, Descend, Level Off, or Maintain Vertical Speed)—never horizontal turns",
+      "Automatic deployment of speedbrakes and landing gear",
+      "Switching off the engines to reduce speed"
+    ],
+    "answer": 1,
+    "explanation": "At 500 knots, horizontal turn radii are too wide and slow to resolve an imminent collision in 25 seconds. TCAS II resolves conflicts exclusively in the vertical plane, coordinating between both aircraft via Mode S data link.",
+    "ata": 34,
+    "ataTitle": "Navigation",
+    "difficulty": "medium",
+    "source": "ICAO ACAS II / ATA 34",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q099",
+    "question": "What happens if a TCAS Resolution Advisory (RA) commands 'CLIMB!' at the exact same moment Air Traffic Control on the radio orders 'DESCEND!'?",
+    "options": [
+      "The pilot must always obey the human Air Traffic Controller",
+      "The pilot must immediately follow the TCAS RA ('CLIMB!') and notify ATC afterward, because both aircrafts' TCAS computers have coordinated complementary vertical paths",
+      "The pilot must split the difference and fly level",
+      "The autopilot automatically shuts off all cockpit screens"
+    ],
+    "answer": 1,
+    "explanation": "Following the 2002 Überlingen mid-air collision, global aviation rules mandate that pilots strictly follow TCAS Resolution Advisories even if they conflict with ATC instructions.",
+    "ata": 34,
+    "ataTitle": "Navigation",
+    "difficulty": "easy",
+    "source": "ICAO PANS-OPS / EUROCONTROL ACAS Guide",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q100",
+    "question": "Why are the Cockpit Voice Recorder (CVR) and Flight Data Recorder (FDR) painted bright International Orange and mounted in the rear tailcone?",
+    "options": [
+      "Because the tailcone has better Wi-Fi signal for passengers",
+      "Orange maximizes visual recovery in wreckage, and the forward fuselage/wings act as a crumple zone so the rear tailcone experiences the lowest deceleration G-forces in a crash",
+      "To balance the weight of the nose radar dish",
+      "Because the tailcone is pressurized to twice normal cabin pressure"
+    ],
+    "answer": 1,
+    "explanation": "Mounting flight recorders in the aft unpressurized tailcone places them farthest from initial impact forces and main wing fuel tanks, while high-visibility International Orange aids search teams.",
+    "ata": 31,
+    "ataTitle": "Indicating/Recording Systems",
+    "difficulty": "easy",
+    "source": "ATA 31 Flight Recorders",
+    "sourceUrl": "",
+    "reviewed": true
+  },{
+    "id": "q101",
+    "question": "Under the Minimum Equipment List (MEL), what is the standard maximum rectification interval for a 'Category C' deferred defect?",
+    "options": [
+      "3 consecutive calendar days (72 hours), excluding the day of discovery",
+      "10 consecutive calendar days (240 hours), excluding the day of discovery",
+      "120 consecutive calendar days, excluding the day of discovery",
+      "Before the next flight departure"
+    ],
+    "answer": 1,
+    "explanation": "MEL repair intervals (starting at 00:01 UTC the day after discovery) are: Category A (custom interval stated in remarks), Category B (3 calendar days), Category C (10 calendar days), and Category D (120 calendar days).",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "easy",
+    "source": "EASA Part-M / DGCA CAR-M MEL Rules",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q102",
+    "question": "In an Airline's Minimum Equipment List (MEL), what do the symbols '(M)' and '(O)' next to an item indicate?",
+    "options": [
+      "Mandatory replacement and Optional replacement",
+      "Mechanical system and Oxygen system",
+      "A mandatory Maintenance procedure (M) required to lock out/deactivate the item, and an Operational procedure (O) for the flight crew before dispatch",
+      "Main base repair only and Outstation repair allowed"
+    ],
+    "answer": 2,
+    "explanation": "(M) indicates a specific Maintenance deactivation/securing procedure that normally must be carried out and certified by a licensed engineer prior to flight, while (O) indicates a special flight crew Operational procedure.",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "medium",
+    "source": "ICAO Doc 9760 / Master MEL",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q103",
+    "question": "What is the key difference between a Minimum Equipment List (MEL) and a Configuration Deviation List (CDL)?",
+    "options": [
+      "The MEL is for Boeing aircraft and the CDL is for Airbus aircraft",
+      "The MEL covers inoperative internal systems/instruments still installed on the aircraft, whereas the CDL covers external secondary structural/aerodynamic parts (like fairings or seals) that are physically missing",
+      "The CDL only applies during heavy C-Checks inside a hangar",
+      "The MEL is approved by the manufacturer while the CDL requires no approval"
+    ],
+    "answer": 1,
+    "explanation": "The MEL governs dispatch with inoperative systems/equipment, whereas the CDL (part of the Aircraft Flight Manual) governs dispatch when external secondary structural panels, seals, or static wicks are missing—often with a takeoff weight penalty.",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "medium",
+    "source": "EASA Air Operations / AFM CDL",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q104",
+    "question": "Why are some manufacturer Service Bulletins (SBs) legally optional for a commercial airline, whereas Airworthiness Directives (ADs) are strictly mandatory?",
+    "options": [
+      "Service Bulletins only apply to cabin paint colors",
+      "Manufacturers (Airbus, Boeing, CFM) are private companies that recommend reliability or product improvements via SBs, whereas only a statutory Aviation Authority (EASA, FAA, DGCA) can mandate law via an AD",
+      "Airworthiness Directives are written by airline pilots",
+      "Service Bulletins automatically expire after 30 days"
+    ],
+    "answer": 1,
+    "explanation": "An OEM Service Bulletin is legally non-mandatory unless it is mandated by a National Aviation Authority through an Airworthiness Directive (AD) or required contractually by an aircraft lease agreement.",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "easy",
+    "source": "EASA Part-M / DGCA CAR-M",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q105",
+    "question": "Under EASA and DGCA regulations, what are the two conditions required for an aircraft to be considered legally 'Airworthy'?",
+    "options": [
+      "It has full fuel tanks and two qualified pilots onboard",
+      "It conforms strictly to its approved Type Certificate design (including approved modifications/repairs) AND is in a condition for safe operation",
+      "It is less than 25 years old and painted white",
+      "It has passed a daily walkaround inspection by the ramp agent"
+    ],
+    "answer": 1,
+    "explanation": "The legal test for airworthiness has two halves: 1) Conformity to the approved Type Certificate (every part, mod, and AD properly documented), and 2) Condition for safe operation (no wear or defects beyond AMM/MEL limits).",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "medium",
+    "source": "ICAO Annex 8 / EASA Part-M",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q106",
+    "question": "What is the relationship between an aircraft's Certificate of Airworthiness (C of A) and its Airworthiness Review Certificate (ARC)?",
+    "options": [
+      "They are two names for the exact same document",
+      "The C of A is non-expiring, but it remains legally valid ONLY when accompanied by a current, in-date Airworthiness Review Certificate (ARC) renewed/extended every 12 months",
+      "The ARC is issued only once at the factory, while the C of A expires every 30 days",
+      "An ARC is only required for cargo freighter aircraft"
+    ],
+    "answer": 1,
+    "explanation": "Under EASA Part-M / Part-CAMO and DGCA CAR-M, the C of A does not carry an expiration date, but its validity depends on having a valid 1-year Airworthiness Review Certificate (ARC).",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "medium",
+    "source": "EASA Part-CAMO / DGCA CAR-M",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q107",
+    "question": "If an aircraft remains continuously in a 'Controlled Environment' (managed by the same approved CAMO with no operator changes), how many times can its Airworthiness Review Certificate (ARC) be extended before a full new physical and records review is required?",
+    "options": [
+      "Never; a full physical survey is required every 6 months",
+      "Twice (for 12 months each time), creating a 3-year cycle between full Airworthiness Reviews",
+      "Ten times (once per year for 10 years)",
+      "Indefinitely until the aircraft is retired"
+    ],
+    "answer": 1,
+    "explanation": "In a Controlled Environment, an approved CAMO can issue an ARC in Year 1, extend it in Year 2, and extend it a second time in Year 3—after which a full documentary and physical Airworthiness Review must be performed.",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "hard",
+    "source": "EASA Part-M.A.901 / DGCA CAR-M",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q108",
+    "question": "Why does aviation regulation separate the Continuing Airworthiness Management Organisation (CAMO) from the Approved Maintenance Organisation (Part-145 / CAR-145)?",
+    "options": [
+      "So mechanics don't have to use computers",
+      "To separate the 'Brain' that plans maintenance, tracks ADs/LLPs, and audits records (CAMO) from the 'Hands' that execute the physical wrench work and sign the CRS (Part-145)",
+      "Because Part-145 organizations are only allowed to paint aircraft",
+      "Because CAMOs only manage retired aircraft stored in deserts"
+    ],
+    "answer": 1,
+    "explanation": "Separating planning/records control (CAMO) from maintenance execution (Part-145) ensures an independent quality loop and keeps total airworthiness control under one roof even when an airline outsources hangar checks globally.",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "easy",
+    "source": "EASA Part-CAMO & Part-145 / DGCA CAR-M & CAR-145",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q109",
+    "question": "When a third-party company (other than the original aircraft manufacturer) designs a major modification—such as installing a satellite Wi-Fi radome or converting a passenger jet into a freighter—what regulatory approval is issued?",
+    "options": [
+      "A Minimum Equipment List (MEL)",
+      "A Supplemental Type Certificate (STC)",
+      "An Airworthiness Review Certificate (ARC)",
+      "A Certificate of Release to Service (CRS)"
+    ],
+    "answer": 1,
+    "explanation": "Only the original manufacturer holds the Type Certificate (TC). When any other approved Design Organisation (Part-21J) obtains design approval for a major modification, the authority issues a Supplemental Type Certificate (STC).",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "easy",
+    "source": "EASA Part-21 Subpart E / FAA Part 21",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q110",
+    "question": "How can an aircraft with un-repaired fuselage damage beyond SRM/MEL limits legally fly from a small outstation airport to a major maintenance hangar for repair?",
+    "options": [
+      "By turning off its transponder and flying at night",
+      "Under a one-time 'Permit to Fly' (Special Flight Permit / Ferry Permit) with approved Flight Conditions, zero passengers onboard, and strict speed/altitude/pressurization restrictions",
+      "By writing 'Category D MEL' in the cabin logbook and boarding passengers normally",
+      "It can never fly again and must be disassembled at the outstation"
+    ],
+    "answer": 1,
+    "explanation": "When an aircraft's normal C of A is temporarily invalid due to damage or an overdue check, the authority/CAMO (with OEM engineering Flight Conditions) can issue a one-time Permit to Fly (Ferry Permit) with essential crew only.",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "medium",
+    "source": "EASA Part-21 Subpart P / DGCA CAR",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q111",
+    "question": "In ETOPS (Extended Diversion Time Operations) line maintenance, why is the same mechanic normally prohibited from changing oil filters or magnetic chip detectors on BOTH engines during the same turnaround?",
+    "options": [
+      "Because changing two oil filters takes more than 8 hours",
+      "To prevent a 'Common-Mode Human Maintenance Error' (like forgetting an O-ring seal on both engines) that could cause both engines to fail simultaneously over an ocean",
+      "Because Engine #1 and Engine #2 use completely different brands of oil",
+      "Because ETOPS aircraft only have one engine"
+    ],
+    "answer": 1,
+    "explanation": "Dual Maintenance Prohibition prevents a single human error from compromising both powerplants on the same flight—requiring separate maintenance crews, staggered flights, or a verification test between tasks.",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "medium",
+    "source": "EASA AMC 20-6 / FAA AC 120-42B ETOPS",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q112",
+    "question": "Why are commercial aircraft registrations in India prefixed with 'VT-' (e.g., VT-ANL) while Irish leased aircraft often use 'EI-'?",
+    "options": [
+      "VT stands for 'Vertical Takeoff' and EI stands for 'Engine Installed'",
+      "Aircraft registration prefixes are sovereign ICAO Nationality Marks ('VT' allocated to India in 1929; 'EI' allocated to Ireland), indicating which State of Registry's laws govern the aircraft",
+      "The prefix indicates the manufacturer of the engines",
+      "Airlines can pick any two random letters they like for each flight"
+    ],
+    "answer": 1,
+    "explanation": "Under ICAO Annex 7, the prefix denotes the sovereign State of Registry (VT- for India under the DGCA, EI- for Ireland, N- for the USA, G- for the UK), which holds legal airworthiness oversight of that tail number.",
+    "ata": null,
+    "category": "Airworthiness & Regulations",
+    "difficulty": "easy",
+    "source": "ICAO Annex 7 Aircraft Nationality and Registration Marks",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q113",
+    "question": "What does 'CDCCL' (Critical Design Configuration Control Limitations) mean when highlighted inside an Aircraft Maintenance Manual (AMM) fuel-tank task?",
+    "options": [
+      "A suggestion that mechanics can skip if they are short on time",
+      "A mandatory fuel-tank ignition-prevention design feature (such as specific wire separation gaps or bonding resistance limits) that must NEVER be altered during maintenance",
+      "A chart showing how much fuel to load for short-haul flights",
+      "A list of cabin cleaning detergents"
+    ],
+    "answer": 1,
+    "explanation": "Created after the TWA 800 fuel tank explosion (SFAR 88 / Fuel Tank Safety), a CDCCL locks critical design features (wire routing separation, bonding jumper resistance, spark barriers) so maintenance never introduces an ignition source.",
+    "ata": 28,
+    "ataTitle": "Fuel",
+    "difficulty": "hard",
+    "source": "EASA Fuel Tank Safety / FAA SFAR 88",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q114",
+    "question": "Why did aviation regulators elevate 'EWIS' (Electrical Wiring Interconnect System) into its own dedicated airworthiness discipline?",
+    "options": [
+      "To make aircraft wiring heavier and thicker",
+      "Because aging, chafed, or contaminated wire bundles can suffer 3,000°C 'Arc Tracking' that burns through nearby systems and insulation without tripping standard thermal circuit breakers",
+      "To replace all copper wires with wireless Bluetooth transmitters",
+      "Because cockpit pilots have to re-wire the instrument panel before every flight"
+    ],
+    "answer": 1,
+    "explanation": "Following accidents like Swissair Flight 111, regulators recognized that wiring is an aging system subject to chafing, wet arc tracking, and lint contamination—mandating EZAP zonal inspections, drip loops, and strict clamping rules.",
+    "ata": 20,
+    "ataTitle": "Standard Practices - Airframe",
+    "difficulty": "medium",
+    "source": "EASA CS-25 Subpart H / EWIS",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q115",
+    "question": "Why must every new batch of aircraft seat cushion covers, carpets, or curtains be accompanied by a laboratory 'Flammability / Burn Test Certificate' (CS/FAR 25.853)?",
+    "options": [
+      "To prove the fabric color won't fade when washed",
+      "To verify the cabin materials are self-extinguishing and resist 'Flashover' and toxic smoke release, preserving the 90-second passenger evacuation window",
+      "To make sure the seats are soft enough for long-haul flights",
+      "To calculate the aircraft's Center of Gravity"
+    ],
+    "answer": 1,
+    "explanation": "Under CS/FAR 25.853, cabin materials must pass vertical Bunsen burner and/or 1,038°C kerosene oil-burner fire-blocking tests. Missing burn certificates during a lease return or ARC audit render the cabin non-compliant.",
+    "ata": 25,
+    "ataTitle": "Equipment/Furnishings",
+    "difficulty": "medium",
+    "source": "FAR / CS 25.853 Cabin Flammability",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q116",
+    "question": "In aviation technical records, what does the term 'Dirty Fingerprints' (DFP) refer to?",
+    "options": [
+      "Grease smudges left on passenger cabin windows by mechanics",
+      "The original physical or scanned task cards, work orders, and release certificates signed and stamped by the certifying engineer at the time maintenance or an AD/SB was accomplished",
+      "Forensic police evidence collected after a security incident",
+      "An unwashed engine compressor blade"
+    ],
+    "answer": 1,
+    "explanation": "A summary printout from AMOS or Excel is not legal proof of AD/SB compliance. Auditors require the 'Dirty Fingerprints' (DFP)—the actual signed, stamped task card and certified work package from the hangar floor.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "easy",
+    "source": "IATA / IALTA Technical Records Best Practices",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q117",
+    "question": "Why does a single missing document in the 'Back-to-Birth' (BtB) traceability chain of an engine Life-Limited Part (LLP) reduce that $350,000 titanium disc to scrap value?",
+    "options": [
+      "Because the disc won't physically fit inside the engine without the paper",
+      "Because sub-microscopic low-cycle fatigue cannot be measured by NDT X-rays—if total accumulated Flight Cycles since factory manufacture cannot be proven without gaps, the part is legally unairworthy",
+      "Because the airline gets fined $1 million by the airport authority",
+      "Because LLPs must be replaced after every single flight"
+    ],
+    "answer": 1,
+    "explanation": "LLPs (rotating engine discs/spools whose failure would be uncontained) have a strict safe-life cycle limit. Since NDT cannot measure pre-crack atomic fatigue, any gap in Back-to-Birth cycle history makes it impossible to verify remaining life.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "medium",
+    "source": "EASA Part-M.A.305 / DGCA CAR-M",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q118",
+    "question": "Why are commercial aircraft tracked by THREE separate clocks simultaneously: Flight Hours (FH), Flight Cycles (FC), and Calendar Time?",
+    "options": [
+      "Because pilots in different time zones use different watches",
+      "Because continuous-run parts wear by Hours (FH), pressurized hulls/landing gear/engine discs fatigue by takeoffs & landings (FC), and corrosion/seals/slides age by Calendar Days/Months",
+      "To make maintenance spreadsheets three times longer",
+      "Because FAA tracks hours, EASA tracks cycles, and DGCA tracks calendar days"
+    ],
+    "answer": 1,
+    "explanation": "Different physical degradation mechanisms govern different parts: continuous friction/erosion scales with Flight Hours (FH), cyclic pressurization and thermal shock scale with Flight Cycles (FC), and corrosion/chemical aging scale with Calendar Time.",
+    "ata": 5,
+    "ataTitle": "Time Limits/Maintenance Checks",
+    "difficulty": "easy",
+    "source": "ATA 05 / MSG-3 Maintenance Planning",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q119",
+    "question": "On an Authorised Release Certificate (EASA Form 1, FAA Form 8130-3, or DGCA CA Form 1), what is the difference between signing the LEFT side (Block 13) vs. the RIGHT side (Block 14)?",
+    "options": [
+      "Left side is for Airbus parts; Right side is for Boeing parts",
+      "Left side (Block 13) is signed by an Approved Manufacturer (Part-21G) for a BRAND-NEW part; Right side (Block 14) is signed by an Approved Maintenance/Repair Station (Part-145) for a USED/REPAIRED/OVERHAULED part",
+      "Left side is signed by the mechanic; Right side is signed by the pilot",
+      "There is no difference; either side can be signed for any part"
+    ],
+    "answer": 1,
+    "explanation": "An Authorised Release Certificate serves two distinct legal regimes: Block 13 (Left) certifies conformity of a newly manufactured part under Part-21, whereas Block 14 (Right) is the Certificate of Release to Service (CRS) for a maintained/overhauled part under Part-145.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "medium",
+    "source": "EASA Appendix II to Part-M (EASA Form 1 Instructions)",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q120",
+    "question": "Why do global aircraft lessors strictly require a 'Dual Release' (EASA Part-145 + FAA Part 145) on overhauled components installed during a lease?",
+    "options": [
+      "So the repair shop can charge twice as much money",
+      "So the component is legally accepted under both EASA and FAA jurisdictions, allowing the lessor to transition the aircraft seamlessly to any airline worldwide at lease end",
+      "Because two mechanics must carry heavy parts together",
+      "Dual Release is only required for passenger cabin seats"
+    ],
+    "answer": 1,
+    "explanation": "A single-release FAA 8130-3 is not accepted on an EASA-registered aircraft (and vice versa). Requiring Dual Release guarantees global asset portability across EASA, FAA, and DGCA registries without re-overhauling parts.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "medium",
+    "source": "US-EU Bilateral Aviation Safety Agreement (BASA) / Lease Return Conditions",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q121",
+    "question": "What document serves as the legal factory 'Birth Certificate' of a brand-new Airbus aircraft leaving the assembly line under EASA Part-21G?",
+    "options": [
+      "The Minimum Equipment List (MEL)",
+      "The EASA Form 52 (Aircraft Statement of Conformity) or initial Export C of A, accompanied by the Aircraft Inspection Report (AIR)",
+      "A fuel receipt from Toulouse airport",
+      "The captain's pilot license"
+    ],
+    "answer": 1,
+    "explanation": "The manufacturer issues an EASA Form 52 (or initial Export C of A) and the factory Aircraft Inspection Report (AIR) / Delivery Readiness Log (DRL), which establishes Day-1 conformity and acts as the birth record for all original factory-installed parts.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "medium",
+    "source": "EASA Part-21 Subpart G",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q122",
+    "question": "Why must an airline issue a signed 'Non-Incident / Non-Accident Statement' (NIS) whenever an engine, LLP, landing gear, or aircraft finishes a lease or enters an overhaul shop?",
+    "options": [
+      "To congratulate the pilots on good landings",
+      "Because extreme crash loads, fire heat, or saltwater submersion cause invisible metallurgical damage (like loss of heat-treatment temper) that normal NDT inspections cannot reliably detect",
+      "To calculate airport landing fees",
+      "To renew the cabin crew's uniforms"
+    ],
+    "answer": 1,
+    "explanation": "High-strength alloys subjected to extreme fire heat or crash shock can lose their metallurgical temper without visible cracks. An unbroken chain of Operator NIS letters certifies the part was never exposed to disqualifying trauma or military service.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "medium",
+    "source": "IATA / AWG Aircraft Leasing Technical Standards",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q123",
+    "question": "What are the three component maintenance philosophies defined under MSG-3: 'HT', 'OC', and 'CM'?",
+    "options": [
+      "High Temperature, Over Cooled, and Cabin Mounted",
+      "Hard-Time (fixed overhaul/scrap limit), On-Condition (periodic wear inspection/test), and Condition-Monitored (non-critical/redundant items allowed to operate to failure with reliability tracking)",
+      "Heavy Tooling, Optical Check, and Calibrated Meter",
+      "Hangar Test, Outstation Check, and Cockpit Monitor"
+    ],
+    "answer": 1,
+    "explanation": "Hard-Time (HT) parts have a mandatory removal limit (FH/FC/Calendar); On-Condition (OC) parts remain installed as long as they pass periodic wear checks; Condition-Monitored (CM) redundant parts fly until failure while CAMO tracks fleet reliability.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "easy",
+    "source": "MSG-3 / EASA Part-M Continuing Airworthiness",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q124",
+    "question": "Why are commercial aircraft engines frequently owned and leased separately from the airframe they are bolted onto?",
+    "options": [
+      "Because engines are made of titanium and airframes are made of aluminum",
+      "Because two engines represent ~50% of an aircraft's value and require 60–120 day off-wing shop visits—requiring airlines to swap spare/leased pool engines onto the wing so the airframe keeps flying",
+      "Because aviation law forbids an airline from owning both a wing and an engine",
+      "Because engines never require maintenance records"
+    ],
+    "answer": 1,
+    "explanation": "Engines are high-value rotable assets tracked independently by Engine Serial Number (ESN) under the Cape Town Convention. When an engine goes into a 90-day shop visit, a spare or short-term leased engine takes its place overnight.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "easy",
+    "source": "IALTA Aircraft & Engine Leasing Principles",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q125",
+    "question": "What happens during a 'Maintenance Programme Bridging Check' when a used aircraft transitions from Airline A to Airline B?",
+    "options": [
+      "The aircraft is flown underneath a suspension bridge to test its altimeters",
+      "CAMO engineers compare every MPD/AMP task interval between the outgoing and incoming operators and perform any tasks that are due or overdue under the new airline's approved schedule",
+      "The wings are unbolted and swapped with another aircraft",
+      "All historical maintenance records are shredded to start fresh at zero hours"
+    ],
+    "answer": 1,
+    "explanation": "Different airlines have different approved task intervals based on environment and utilization. Bridging aligns the aircraft's maintenance clock from the previous operator's AMP to the incoming operator's AMP before its first revenue flight.",
+    "ata": 5,
+    "ataTitle": "Time Limits/Maintenance Checks",
+    "difficulty": "medium",
+    "source": "EASA Part-CAMO / Aircraft Transition Management",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q126",
+    "question": "In aircraft leasing, why do airlines pay monthly 'Maintenance Reserves' (Supplemental Rent) based on Flight Hours and Flight Cycles flown?",
+    "options": [
+      "To pay for the pilots' hotel rooms at outstations",
+      "To accumulate cash in ring-fenced pots matching the mechanical life burned each month on Engines, LLPs, Landing Gear, APU, and Heavy Checks—protecting the lessor if the airline defaults before overhaul",
+      "To pay airport air traffic control navigation charges",
+      "As a non-refundable tip to the aircraft manufacturer"
+    ],
+    "answer": 1,
+    "explanation": "As an aircraft flies, it consumes millions of dollars of built-in maintenance life. Monthly Maintenance Reserves ensure cash is set aside per hour/cycle flown, which the airline claims back when a qualifying major overhaul is completed.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "medium",
+    "source": "IATA / IALTA Aircraft Leasing & Maintenance Reserves",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q127",
+    "question": "What does 'ACMI' stand for in a short-term aircraft 'Wet Lease' agreement?",
+    "options": [
+      "Air Conditioning, Cabin, Motors, and Instruments",
+      "Aircraft, Crew, Maintenance, and Insurance",
+      "Airbus, CFM, Michelin, and Inmarsat",
+      "Approved Certificate of Maintenance Inspection"
+    ],
+    "answer": 1,
+    "explanation": "In a Wet Lease (ACMI), the lessor provides the ready-to-fly Aircraft, Flight/Cabin Crew, Maintenance (CAMO/Part-145), and Hull Insurance for a block-hour fee, while the customer airline covers fuel, catering, and airport fees.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "ICAO / IATA Wet Leasing Guidelines",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q128",
+    "question": "Under the international Cape Town Convention, what does an 'IDERA' (Irrevocable De-Registration and Export Request Authorisation) allow an aircraft lessor to do?",
+    "options": [
+      "Fly the aircraft without pilots using remote control",
+      "Compel the national aviation authority (such as the DGCA) to deregister and permit export of a leased aircraft within days if the airline defaults on lease payments",
+      "Change the aircraft's engine thrust rating without OEM permission",
+      "Exempt the aircraft from all Airworthiness Directives"
+    ],
+    "answer": 1,
+    "explanation": "Signed by the airline at lease inception and filed with the aviation authority, an IDERA grants the lessor the pre-authorized legal right to deregister and export their aircraft swiftly upon lease default.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "hard",
+    "source": "Cape Town Convention / DGCA IDERA Rules",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q129",
+    "question": "Why must transport aircraft Landing Gear legs undergo a complete off-wing Hard-Time overhaul every 10 to 12 calendar years regardless of how few hours the aircraft has flown?",
+    "options": [
+      "Because rubber tyres expire after 10 years",
+      "Because ultra-high-strength steel (300M) forgings are susceptible to calendar-driven Stress-Corrosion Cracking under bushings and chrome plating, requiring complete chemical stripping, NDT, re-plating, and baking",
+      "Because landing gear paint changes color every decade",
+      "Because the cockpit gear lever wears out after 10 years"
+    ],
+    "answer": 1,
+    "explanation": "Moisture and static weight loads drive time-dependent stress-corrosion in high-strength steel hidden beneath pressed bushings and hard chrome plating—requiring full disassembly, chemical stripping, NDT, re-plating, and hydrogen de-embrittlement baking.",
+    "ata": 32,
+    "ataTitle": "Landing Gear",
+    "difficulty": "medium",
+    "source": "MPD / ATA 32 Landing Gear Overhaul",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q130",
+    "question": "Why do only ~1,800 out of nearly 3,000 tasks in the Airbus A320 Maintenance Planning Document (MPD) actually apply to any single aircraft tail number?",
+    "options": [
+      "Airlines are allowed to randomly delete 1,200 tasks to save money",
+      "Each MPD task has an 'Effectivity / Applicability' rule filtered by the specific aircraft's Engine type, Weight Variant, and Pre-Mod / Post-Mod (Service Bulletin) configuration status",
+      "The other 1,200 tasks only apply to helicopters",
+      "Only the first 1,800 pages of the manual are printed"
+    ],
+    "answer": 1,
+    "explanation": "Across decades of production, design Modifications (Mods) and Service Bulletins (SBs) change components and structures. CAMO engineers evaluate each MPD task's Effectivity expression against the specific MSN's Mod/SB status.",
+    "ata": 5,
+    "ataTitle": "Time Limits/Maintenance Checks",
+    "difficulty": "medium",
+    "source": "Airbus MPD General Introduction / CAMO Planning",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q131",
+    "question": "What happens when structural damage on an airframe exceeds the allowable repair limits published in the Structural Repair Manual (SRM)?",
+    "options": [
+      "The mechanic puts three layers of Speed Tape over the crack and signs the logbook",
+      "CAMO engineering must request a custom 'Repair Design Approval' (Major/Minor Repair Disposition) from the OEM (Airbus/Boeing) or an approved Part-21J / DER design organization",
+      "The pilot flies the aircraft unpressurized forever",
+      "The damage is ignored until the next 12-year D-Check"
+    ],
+    "answer": 1,
+    "explanation": "The SRM only covers pre-approved standard repairs. Any damage outside SRM boundaries requires custom stress-engineered drawings approved by the Type Certificate Holder (OEM) or a Part-21J / DER authority.",
+    "ata": 51,
+    "ataTitle": "Standard Practices - Structures",
+    "difficulty": "medium",
+    "source": "EASA Part-21 Subpart M / SRM",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q132",
+    "question": "In aircraft valuation and lease return conditions, what does 'Half-Life Condition' mean?",
+    "options": [
+      "The aircraft is 15 years old out of a 30-year lifespan",
+      "Every major time-controlled asset (Engines, LLPs, Landing Gear, APU, and Heavy Checks) is at exactly 50% of its overhaul interval or remaining life",
+      "Half of the passenger cabin seats have been removed",
+      "The aircraft is only allowed to fly with half-full fuel tanks"
+    ],
+    "answer": 1,
+    "explanation": "'Half-Life' is the standard aviation appraisal benchmark where 50% of the time/cycles between overhauls (or LLP life) remains on each major cost component; deviations above or below Half-Life are adjusted financially in dollars per hour/cycle.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "medium",
+    "source": "ISTAT Aircraft Appraisal Standards",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q133",
+    "question": "Why does an engine Life-Limited Part (LLP) require 'Pro-Rata' life calculation if the engine was operated at two different thrust ratings during its career?",
+    "options": [
+      "Because different airlines use different currencies",
+      "Because running the exact same physical disc at a higher thrust rating subjects it to higher centrifugal and thermal stress—giving it a lower certified Cycle Limit than at a lower thrust rating",
+      "Because thrust ratings change the diameter of the fan blades",
+      "Pro-rata calculation is only used for cabin carpets"
+    ],
+    "answer": 1,
+    "explanation": "Changing an engine's rating plug changes its takeoff thrust and internal stress. An LLP might have a 20,000-cycle limit at low thrust and a 15,000-cycle limit at high thrust—requiring fractional pro-rata math across each historical period.",
+    "ata": 72,
+    "ataTitle": "Engine",
+    "difficulty": "hard",
+    "source": "Engine Manual Chapter 05 Airworthiness Limitations",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q134",
+    "question": "When an aging airliner is retired at age 25 for a 'Part-Out / Teardown', why must mechanics carefully unbolt components per the Aircraft Maintenance Manual (AMM) instead of cutting them out quickly?",
+    "options": [
+      "To keep the hangar floor quiet",
+      "Because any harvested component (USM — Used Serviceable Material) can only be overhauled and issued a legal EASA Form 1 / FAA 8130-3 if it was removed per approved AMM procedures with full traceability and an NIS",
+      "Because saws are banned inside airports",
+      "So the airplane can be bolted back together the next week"
+    ],
+    "answer": 1,
+    "explanation": "A retired jet's engines, APU, landing gear, and avionics are worth millions as Used Serviceable Material (USM), but only if removed per the AMM by an approved Part-145 organization with unbroken traceability to the final component status list.",
+    "ata": null,
+    "category": "Technical Records & Leasing",
+    "difficulty": "easy",
+    "source": "AFRA Best Management Practice for Aircraft Decommissioning",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q135",
+    "question": "In an Engine Shop Visit (ESV) binder, why is the final 'Test Cell Run Report' one of the most important pages audited by lessors and CAMO engineers?",
+    "options": [
+      "It shows how much paint was used on the engine cowling",
+      "It proves the rebuilt engine ran at full takeoff power inside a calibrated test cell and met all thrust, vibration, oil pressure, and outbound EGT Margin requirements before release",
+      "It lists the names of the truck drivers who delivered the engine",
+      "It certifies that the cabin air conditioning filters were replaced"
+    ],
+    "answer": 1,
+    "explanation": "Before an overhauled engine can be issued its master EASA Form 1 / 8130-3 release certificate, it must pass a full-power Test Cell run verifying mechanical integrity and establishing its post-overhaul EGT Margin baseline.",
+    "ata": 72,
+    "ataTitle": "Engine",
+    "difficulty": "easy",
+    "source": "Engine Shop Manual / ESV Audit Guidelines",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q136",
+    "question": "When maintenance disturbs a primary flight control or engine control system, why do regulations mandate a 'Duplicate / Independent Inspection' by two separate qualified engineers?",
+    "options": [
+      "Because flight control cables are too heavy for one person to see",
+      "To defeat human confirmation bias and catch single-point-of-failure rigging errors (such as reversed control movement, wrong cable tension, or a missing cotter pin/lockwire) before closing access panels",
+      "To train junior apprentices on where the tailcone is located",
+      "Because aviation law requires every job on an aircraft to be signed by four people"
+    ],
+    "answer": 1,
+    "explanation": "Redundancy cannot save an aircraft if an elevator or aileron is mis-rigged or comes disconnected. An Independent Inspection requires two qualified people to separately verify assembly, locking, tension, full travel, and correct sense of direction.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "easy",
+    "source": "EASA Part-145.A.48 / DGCA CAR-145 Critical Maintenance Tasks",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q137",
+    "question": "When lockwiring (safety wiring) two standard right-hand-thread bolts together, how must the stainless-steel wire be routed?",
+    "options": [
+      "Loosely with zero twists so the bolts can rotate 90 degrees freely",
+      "In 'Positive Tension'—so that any counterclockwise loosening movement of either bolt pulls the wire tighter in the clockwise (tightening) direction of the second bolt",
+      "In 'Negative Tension' so both bolts unscrew at the same time",
+      "Wrapped around the threads underneath the nut"
+    ],
+    "answer": 1,
+    "explanation": "Lockwire must always be applied in positive (tightening) tension at 6–8 twists per inch with a safely tucked pigtail, making it mechanically impossible for either fastener to rotate counterclockwise without tightening its neighbour.",
+    "ata": 20,
+    "ataTitle": "Standard Practices - Airframe",
+    "difficulty": "easy",
+    "source": "AMM Chapter 20 Standard Practices — Lockwiring",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q138",
+    "question": "What is the purpose of the bright orange or red 'Torque Seal' (inspection lacquer) stripe painted across a nut and bolt thread after torquing?",
+    "options": [
+      "It acts as super-strong glue that holds the nut onto the bolt",
+      "It dries into a hard, brittle crust that visibly cracks and misaligns if the nut backs off or is tampered with by even a couple of degrees",
+      "It lubricates the bolt threads for easy removal next year",
+      "It insulates the bolt from lightning strikes"
+    ],
+    "answer": 1,
+    "explanation": "Torque Seal has zero mechanical holding strength; it is a brittle visual witness mark that allows an engineer with a flashlight to instantly verify that hundreds of hydraulic B-nuts and structural bolts haven't rotated since installation.",
+    "ata": 20,
+    "ataTitle": "Standard Practices - Airframe",
+    "difficulty": "easy",
+    "source": "AMM Chapter 20 Standard Practices",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q139",
+    "question": "What happens in an approved Part-145 / CAR-145 hangar if a mechanic finishes a job and discovers one small socket bit is missing from their shadow-foam toolbox?",
+    "options": [
+      "The mechanic buys a replacement socket on the way home and says nothing",
+      "The aircraft cannot be signed off (CRS is blocked) and is placed on 'Tool Lost Hold' until a thorough search (and NDT/borescope if needed) recovers the missing tool",
+      "The pilot is asked to listen for rattling noises during takeoff",
+      "Missing tools only matter if they weigh more than 1 kilogram"
+    ],
+    "answer": 1,
+    "explanation": "A loose tool left inside an airframe is lethal Foreign Object Debris (FOD) capable of jamming flight control pulleys or shorting electrical buses. Tool Control rules block aircraft release until 100% of tools are accounted for.",
+    "ata": 20,
+    "ataTitle": "Standard Practices - Airframe",
+    "difficulty": "easy",
+    "source": "Part-145 / CAR-145 Tool Control & FOD Prevention",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q140",
+    "question": "Why are mechanics forbidden from inserting a turning tool and rotating a jet engine shaft immediately after the engine shuts down while it is still hot?",
+    "options": [
+      "Because the fuel nozzles will spray fuel onto the hangar floor",
+      "Because uneven rising heat inside a stopped engine temporarily warps the shaft upward ('Thermal Rotor Bow'), causing blade tips to rub hard and seize against the top casing shroud",
+      "Because the magnetic chip detectors are still energized",
+      "Because the fan blades are magnetized when hot"
+    ],
+    "answer": 1,
+    "explanation": "After shutdown, hot air rises to the top of the engine core, causing asymmetric thermal expansion ('Rotor Bow'). Mechanics must wait for the AMM cooldown window before cranking the core for a borescope inspection.",
+    "ata": 72,
+    "ataTitle": "Engine",
+    "difficulty": "hard",
+    "source": "AMM ATA 72 Borescope Inspection Precautions",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q141",
+    "question": "Which Non-Destructive Testing (NDT) method uses a small electromagnetic coil to induce swirling electrical currents in conductive aluminum skin—capable of detecting microscopic fatigue cracks around rivet holes right through the paint?",
+    "options": [
+      "Liquid Penetrant Testing (PT)",
+      "Eddy Current Testing (ET)",
+      "Magnetic Particle Testing (MT)",
+      "Visual Coin-Tap Testing"
+    ],
+    "answer": 1,
+    "explanation": "Eddy Current Testing (ET) induces circular electrical currents in conductive non-ferrous metals like aluminum. A surface or near-subsurface crack interrupts the current flow and shifts coil impedance—without needing to strip exterior paint.",
+    "ata": 51,
+    "ataTitle": "Standard Practices - Structures",
+    "difficulty": "medium",
+    "source": "NDT Manual (NTM) — Eddy Current Inspection",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q142",
+    "question": "Why can't 'Magnetic Particle Testing' (MT) be used to inspect an aluminum wing skin or a titanium fan blade?",
+    "options": [
+      "Because aluminum and titanium melt when exposed to magnetic fields",
+      "Because Magnetic Particle Testing only works on ferromagnetic materials (like high-strength steel landing gear pins and axles) that can be strongly magnetized",
+      "Because aluminum wings are too large to fit inside a hangar",
+      "Because MT only works on carbon-fiber composites"
+    ],
+    "answer": 1,
+    "explanation": "Aluminum, titanium, and austenitic stainless steels are non-magnetic. Magnetic Particle Testing (MT) is reserved strictly for ferromagnetic iron and steel components like landing gear forgings, bolts, and shafts.",
+    "ata": 51,
+    "ataTitle": "Standard Practices - Structures",
+    "difficulty": "medium",
+    "source": "EASA Part-66 Module 7 / NDT Principles",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q143",
+    "question": "What is aviation 'Speed Tape' actually made of, and what is it legally used for?",
+    "options": [
+      "Cloth-backed hardware duct tape used to hold broken wing spars together",
+      "Heavy-gauge malleable aluminum foil with high-strength silicone/acrylic adhesive, approved by the SRM/AMM for covering wet sealant or protecting minor peeled paint on non-structural panels",
+      "Double-sided carpet tape used to hold passenger seats to the floor",
+      "Plastic electrical tape used to insulate pitot tubes"
+    ],
+    "answer": 1,
+    "explanation": "Speed Tape is an aerospace aluminum foil tape rated for -65°C to +300°C and 600-mph airflow. It carries zero primary structural load and is strictly regulated by the SRM/AMM for temporary aerodynamic sealing and moisture protection.",
+    "ata": 51,
+    "ataTitle": "Standard Practices - Structures",
+    "difficulty": "easy",
+    "source": "SRM Chapter 51 Temporary Repairs",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q144",
+    "question": "Why must mechanics use strictly Demineralized / Deionized pure water when performing an On-Wing Engine Compressor Water Wash?",
+    "options": [
+      "Because pure water is heavier and blasts dirt harder",
+      "Because dissolved minerals (calcium, sodium, chlorides) in ordinary tap water would bake onto 1,500°C turbine blades, clogging microscopic cooling holes and causing high-temperature sulfidation corrosion",
+      "Because tap water freezes at +20°C inside an engine",
+      "Because deionized water is dyed bright purple for leak detection"
+    ],
+    "answer": 1,
+    "explanation": "Spraying mineral-laden tap water into a gas turbine leaves scale deposits inside laser-drilled turbine cooling holes and introduces sodium/chlorides that cause destructive hot corrosion on nickel superalloys.",
+    "ata": 72,
+    "ataTitle": "Engine",
+    "difficulty": "medium",
+    "source": "AMM ATA 72 Compressor Water Wash",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q145",
+    "question": "During winter ground de-icing, why do trucks spray heated Orange 'Type I' fluid first, followed by cold Emerald-Green 'Type IV' fluid?",
+    "options": [
+      "Orange is for Boeing jets and Green is for Airbus jets",
+      "Hot watery Type I melts and blasts off existing ice/snow, while thick shear-thinning Type IV polymer gel clings to the wing to prevent new snow from sticking until it shears off at ~100 knots during takeoff",
+      "Green fluid is sprayed to wash the orange dye off the paint",
+      "Type IV fluid freezes into a protective ice shell over the wing"
+    ],
+    "answer": 1,
+    "explanation": "Type I (orange) has low viscosity and uses heat to remove existing contamination; Type IV (green) is a thick non-Newtonian gel that provides long Holdover Time (HOT) in falling snow before liquefying under aerodynamic shear during the takeoff roll.",
+    "ata": 12,
+    "ataTitle": "Servicing",
+    "difficulty": "easy",
+    "source": "ATA 12 / ICAO Manual of Aircraft Ground De-icing",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q146",
+    "question": "Why is the refueling operator required to attach a metal Bonding Cable between the fuel truck and the aircraft BEFORE opening or connecting the fuel nozzle?",
+    "options": [
+      "So the fuel truck cannot drive away while the hose is attached",
+      "To equalize electrical potential between the fuel truck and the airframe so static electricity cannot jump as a spark across the nozzle gap when coupling or uncoupling",
+      "To power the fuel truck's pump using the aircraft's 400 Hz generator",
+      "To measure how many litres of fuel are in the wing"
+    ],
+    "answer": 1,
+    "explanation": "Bonding brings the fuel bowser and the aircraft to the exact same electrical voltage potential before the fuel port is opened, eliminating any possibility of a static discharge arc igniting fuel vapours.",
+    "ata": 12,
+    "ataTitle": "Servicing",
+    "difficulty": "easy",
+    "source": "AMM ATA 12 / ATA 28 Refueling Safety",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q147",
+    "question": "When an aircraft is lifted on three hydraulic tripod jacks inside a hangar, why must mechanics continuously screw down the threaded metal 'Safety Collars' on the jack rams?",
+    "options": [
+      "To measure how many inches the aircraft has been lifted",
+      "To provide a solid mechanical lock so that if a jack's hydraulic seal or hose blows out, the 70-tonne aircraft cannot drop onto personnel working underneath",
+      "To keep dust off the shiny chrome jack pistons",
+      "To ground the aircraft against lightning inside the hangar"
+    ],
+    "answer": 1,
+    "explanation": "Hydraulic pressure alone is never trusted to support a jacked aircraft. Screwing the heavy threaded safety collars tight against the jack cylinder base mechanically locks the ram against sudden hydraulic failure.",
+    "ata": 7,
+    "ataTitle": "Lifting and Shoring",
+    "difficulty": "easy",
+    "source": "AMM ATA 07 Lifting and Shoring",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q148",
+    "question": "In engine oil maintenance, what is the difference between a 'Magnetic Chip Detector' (MCD) and 'SOAP' (Spectrometric Oil Analysis Program)?",
+    "options": [
+      "SOAP is used to wash the outside of the engine cowling",
+      "Magnetic Chip Detectors catch larger ferromagnetic iron/steel flakes in the oil scavenge lines, whereas SOAP burns oil samples in a lab spectrometer to measure microscopic wear-metal trends (in ppm) including non-magnetic alloys",
+      "Chip detectors only work when the engine is shut down in storage",
+      "SOAP measures fuel quantity inside the wing tanks"
+    ],
+    "answer": 1,
+    "explanation": "MCDs trap macroscopic ferrous slivers from spalling bearings, while SOAP detects sub-microscopic suspended metallic elements (iron, copper, aluminum, silver, chromium) in parts per million to catch wear trends weeks before failure.",
+    "ata": 79,
+    "ataTitle": "Oil",
+    "difficulty": "medium",
+    "source": "ATA 79 Engine Oil Monitoring",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q149",
+    "question": "In aviation Human Factors, what is the core principle of 'Just Culture' inside an airline or MRO?",
+    "options": [
+      "Nobody can ever be disciplined, even for deliberate sabotage or falsifying records",
+      "Anyone who makes an honest mistake is fired immediately to set an example",
+      "Honest, unintentional human errors and slips that are openly self-reported are protected from punishment so hidden hazards get fixed, while gross negligence or willful violations remain strictly accountable",
+      "Only pilots are allowed to report safety issues"
+    ],
+    "answer": 2,
+    "explanation": "Punishing honest human errors drives mechanics and pilots to hide mistakes. Just Culture encourages immediate self-reporting of honest errors while drawing a clear line against reckless or deliberate rule violations.",
+    "ata": null,
+    "category": "Human Factors",
+    "difficulty": "easy",
+    "source": "EASA Part-145 / DGCA CAR-145 Module 9 Human Factors",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q150",
+    "question": "In aviation maintenance Human Factors ('The Dirty Dozen'), why do hangars teach the '3-Steps-Back Rule' whenever a mechanic is interrupted mid-task?",
+    "options": [
+      "So the mechanic stands 3 steps away from the aircraft while talking",
+      "Because 'Distraction' is a leading cause of forgotten torque/lockwire steps—backing up 3 full steps in the manual upon returning ensures no un-torqued fastener was mentally skipped",
+      "Because mechanics must walk backward around the wingtip",
+      "To give the hydraulic fluid 3 minutes to cool down"
+    ],
+    "answer": 1,
+    "explanation": "When interrupted mid-task, human working memory frequently assumes the current step (like final torquing or lockwiring) was already completed. Re-verifying the last three steps of the procedure defeats distraction lapses.",
+    "ata": null,
+    "category": "Human Factors",
+    "difficulty": "easy",
+    "source": "FAA / Transport Canada Human Factors 'Dirty Dozen'",
+    "sourceUrl": "",
+    "reviewed": true
+  },{
+    "id": "q151",
+    "question": "According to Bernoulli's Principle in subsonic incompressible airflow, what happens when air accelerates over the curved upper surface of an aerofoil?",
+    "options": [
+      "Static pressure increases and dynamic pressure decreases",
+      "Static pressure decreases and dynamic pressure increases",
+      "Both static and dynamic pressure increase together",
+      "Total pressure drops to zero at the thickest point of the wing"
+    ],
+    "answer": 1,
+    "explanation": "Total Pressure = Static Pressure + Dynamic Pressure. As airflow velocity increases over the cambered upper surface, dynamic pressure rises and static pressure drops, creating an upward pressure differential (lift).",
+    "ata": null,
+    "category": "CAR-66 Module 8: Basic Aerodynamics",
+    "difficulty": "easy",
+    "source": "DGCA / EASA CAR-66 Module 8 Basic Aerodynamics",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q152",
+    "question": "Why does a symmetric aerofoil (such as a NACA 0012 vertical fin or wind-tunnel test wing) generate zero net lift at a 0-degree Angle of Attack?",
+    "options": [
+      "Because symmetric aerofoils cannot fly faster than 100 knots",
+      "Because the upper and lower surfaces have identical curvature, producing equal velocity and equal static pressure on both sides at 0° Angle of Attack",
+      "Because boundary-layer air only flows under the wing",
+      "Because symmetric aerofoils have no leading edge"
+    ],
+    "answer": 1,
+    "explanation": "A symmetric aerofoil has zero camber (identical upper and lower profiles). At 0° AoA, airflow accelerates equally over top and bottom surfaces, resulting in zero pressure differential until a positive or negative Angle of Attack is introduced.",
+    "ata": null,
+    "category": "CAR-66 Module 8: Basic Aerodynamics",
+    "difficulty": "easy",
+    "source": "DGCA / EASA CAR-66 Module 8 Basic Aerodynamics",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q153",
+    "question": "What happens to the 'Center of Pressure' (CP) on a conventional cambered aerofoil as the Angle of Attack increases toward the stall angle?",
+    "options": [
+      "It stays locked at the trailing edge at all angles",
+      "It moves steadily forward toward the leading edge until the critical stall angle is reached, and then shifts abruptly rearward at the stall",
+      "It moves sideways out toward the wingtip",
+      "It moves steadily backward toward the trailing edge before the stall"
+    ],
+    "answer": 1,
+    "explanation": "On a cambered wing, the Center of Pressure moves forward as Angle of Attack increases (up to the critical stall angle ~15°–16°), whereas the Aerodynamic Center (AC) remains stationary at roughly the 25% chord point.",
+    "ata": null,
+    "category": "CAR-66 Module 8: Basic Aerodynamics",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 8 Basic Aerodynamics",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q154",
+    "question": "In aircraft longitudinal stability, what is required for an aircraft to be statically stable in pitch?",
+    "options": [
+      "The Center of Gravity (CG) must be located behind the Center of Lift / Neutral Point",
+      "The Center of Gravity (CG) must be located ahead of the Neutral Point (Aerodynamic Center), with the horizontal tailplane providing a balancing downward force",
+      "The aircraft must have four engines mounted on the tail",
+      "The wings must have negative dihedral (anhedral)"
+    ],
+    "answer": 1,
+    "explanation": "Positive static longitudinal stability requires a positive 'Static Margin'—meaning the CG sits forward of the Neutral Point so any nose-up gust naturally creates a nose-down restoring pitching moment.",
+    "ata": null,
+    "category": "CAR-66 Module 8: Basic Aerodynamics",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 8 Basic Aerodynamics",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q155",
+    "question": "Why do modern airliners fit upright Winglets or Sharklets at their wingtips?",
+    "options": [
+      "To act as radio antennas for cabin Wi-Fi",
+      "To block high-pressure air under the wing from curling around the tip to the low-pressure upper surface—weakening wingtip vortices and reducing Lift-Induced Drag",
+      "To increase Parasite Drag during landing roll",
+      "To hold the navigation strobe lights higher off the tarmac"
+    ],
+    "answer": 1,
+    "explanation": "Winglets and Sharklets diffuse the spanwise flow and strong wingtip vortex where high-pressure lower air spills onto the low-pressure upper wing—increasing effective aspect ratio and cutting induced drag by 3% to 5%.",
+    "ata": 57,
+    "ataTitle": "Wings",
+    "difficulty": "easy",
+    "source": "DGCA / EASA CAR-66 Module 8 Basic Aerodynamics",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q156",
+    "question": "How does 'Induced Drag' (lift-dependent drag) behave vs. 'Parasite Drag' (profile/skin-friction drag) as an aircraft's airspeed increases?",
+    "options": [
+      "Both Induced Drag and Parasite Drag increase with the square of airspeed",
+      "Induced Drag is highest at slow speeds (high Angle of Attack) and decreases as speed rises, whereas Parasite Drag increases with the square of airspeed ($V^2$)",
+      "Induced Drag is zero during takeoff and maximum at Mach 0.85",
+      "Parasite Drag is highest when the aircraft is flying slowly"
+    ],
+    "answer": 1,
+    "explanation": "Induced drag varies inversely with the square of airspeed ($1/V^2$) because flying slowly requires a high Angle of Attack and strong tip vortices. Parasite drag varies directly with $V^2$. Total drag is lowest where the two curves cross ($L/D_{max}$).",
+    "ata": null,
+    "category": "CAR-66 Module 8: Basic Aerodynamics",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 8 Basic Aerodynamics",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q157",
+    "question": "What is the primary aerodynamic difference between extending 'Leading-Edge Slats' vs. 'Trailing-Edge Flaps'?",
+    "options": [
+      "Slats decrease the stall angle while flaps increase it",
+      "Leading-edge slats re-energize the upper boundary layer through a slot to increase the Critical Stall Angle ($\\alpha_{crit}$), whereas trailing-edge flaps increase camber to boost lift at a given angle",
+      "Slats are only used in cruise at 38,000 feet",
+      "Flaps reduce wing surface area while slats reduce drag"
+    ],
+    "answer": 1,
+    "explanation": "Extending leading-edge slats opens a converging slot that ducts high-energy air over the upper wing surface, delaying airflow separation and raising the critical stall angle from ~15° to ~22°–25°.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 8 Basic Aerodynamics",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q158",
+    "question": "What is 'Adverse Yaw' when an aircraft banks into a turn using its ailerons?",
+    "options": [
+      "The nose yaws in the same direction as the turn too quickly",
+      "The downward-moving aileron (on the rising outer wing) creates more lift AND more induced drag than the upward-moving aileron, pulling the aircraft's nose toward the outside of the turn",
+      "The rudder pedals lock up above 200 knots",
+      "The engines lose thrust during a bank"
+    ],
+    "answer": 1,
+    "explanation": "When rolling left, the right wing's aileron deflects downward to raise the right wing. That increased local camber produces higher induced drag on the right wingtip, yawing the nose right (away from the left turn) unless countered by differential ailerons, roll spoilers, or rudder.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 8 Basic Aerodynamics",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q159",
+    "question": "What does 'Critical Mach Number' ($M_{crit}$) mean for a high-speed subsonic airliner?",
+    "options": [
+      "The speed at which the entire aircraft breaks the sound barrier (Mach 1.0)",
+      "The lowest flight Mach number at which local airflow accelerating over the thickest part of the wing first reaches the speed of sound (Mach 1.0)",
+      "The stall speed when flying with ice on the wings",
+      "The maximum speed allowed while taxiing on the ramp"
+    ],
+    "answer": 1,
+    "explanation": "Because air accelerates as it curves over the upper wing, when the aircraft is flying at Mach 0.78–0.82, local airflow on top of the wing reaches Mach 1.0 first. That free-stream speed is the Critical Mach Number ($M_{crit}$).",
+    "ata": null,
+    "category": "CAR-66 Module 8: Basic Aerodynamics",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 8 High Speed Flight",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q160",
+    "question": "Why are the wings of modern commercial jetliners swept backward at roughly 25 to 35 degrees?",
+    "options": [
+      "So the wingtips fit inside narrow airport hangars",
+      "To delay the onset of transonic shockwaves and compressibility drag—raising the wing's Critical Mach Number ($M_{crit}$) so the aircraft can cruise efficiently at Mach 0.80+",
+      "To increase lift during low-speed landings",
+      "To move the fuel tanks behind the tailcone"
+    ],
+    "answer": 1,
+    "explanation": "Sweeping the wing backward means only the velocity component perpendicular (normal) to the leading edge accelerates over the airfoil camber—delaying shockwave formation and raising $M_{crit}$.",
+    "ata": 57,
+    "ataTitle": "Wings",
+    "difficulty": "easy",
+    "source": "DGCA / EASA CAR-66 Module 8 High Speed Flight",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q161",
+    "question": "In CAR-66 Module 3 (Electrical Fundamentals), if three resistors of $30\\ \\Omega$, $30\\ \\Omega$, and $30\\ \\Omega$ are connected in PARALLEL across a 28V DC aircraft bus, what is the total equivalent resistance?",
+    "options": [
+      "90 Ohms",
+      "30 Ohms",
+      "10 Ohms",
+      "3 Ohms"
+    ],
+    "answer": 2,
+    "explanation": "For $N$ identical resistors in parallel, $R_{total} = R / N = 30\\ \\Omega / 3 = 10\\ \\Omega$. (Total resistance in a parallel circuit is always smaller than the smallest individual branch resistor.)",
+    "ata": null,
+    "category": "CAR-66 Module 3: Electrical Fundamentals",
+    "difficulty": "easy",
+    "source": "DGCA / EASA CAR-66 Module 3 Electrical Fundamentals",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q162",
+    "question": "In an Alternating Current (AC) circuit, what is the phase relationship between Voltage and Current across a pure Inductor vs. a pure Capacitor?",
+    "options": [
+      "Voltage and current are always in phase in both",
+      "In an Inductor, Voltage leads Current by 90° (ELI); in a Capacitor, Current leads Voltage by 90° (ICE)",
+      "In an Inductor, Current leads Voltage by 90°; in a Capacitor, Voltage leads Current by 90°",
+      "Voltage lags Current by 180° in both"
+    ],
+    "answer": 1,
+    "explanation": "Remember the classic aviation mnemonic 'ELI the ICE man': in an Inductive (L) circuit, EMF (Voltage, E) leads Current (I) by 90°; in a Capacitive (C) circuit, Current (I) leads EMF (E) by 90°.",
+    "ata": null,
+    "category": "CAR-66 Module 3: Electrical Fundamentals",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 3 AC Theory",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q163",
+    "question": "Why are aircraft AC generators rated in 'kVA' (Kilovolt-Amperes, Apparent Power) such as 90 kVA, rather than in 'kW' (Kilowatts, True Power)?",
+    "options": [
+      "Because kVA sounds larger in marketing brochures",
+      "Because generator copper windings and iron cores are thermally limited by total current ($V \\times I$) regardless of the Power Factor ($\\cos \\phi$) of the inductive/capacitive aircraft loads connected",
+      "Because 400 Hz electricity has no watts",
+      "Because kW only applies to DC batteries"
+    ],
+    "answer": 1,
+    "explanation": "Internal $I^2R$ heating inside a generator's windings depends on total current flowing, which includes reactive current from inductive motors and transformers. Rating in kVA (Apparent Power) defines the true thermal/current limit independent of load Power Factor.",
+    "ata": 24,
+    "ataTitle": "Electrical Power",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 3 AC Generators",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q164",
+    "question": "In a 3-Phase Star-Connected (Wye) aircraft AC generator where the Phase Voltage (line-to-neutral) is 115V AC, what is the Line Voltage (phase-to-phase)?",
+    "options": [
+      "115V AC",
+      "200V AC ($115\\text{V} \\times \\sqrt{3}$)",
+      "230V AC ($115\\text{V} \\times 2$)",
+      "400V AC"
+    ],
+    "answer": 1,
+    "explanation": "In a 3-phase Star (Wye) system, Line Voltage equals $\\sqrt{3}$ (approx. 1.732) times Phase Voltage: $115\\text{V} \\times 1.732 \\approx 200\\text{V}$ AC.",
+    "ata": 24,
+    "ataTitle": "Electrical Power",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 3 Three-Phase AC",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q165",
+    "question": "Why do Jet Engine EGT (Exhaust Gas Temperature) thermocouple harnesses use 'Chromel-Alumel' (Type K) wires that must NEVER be trimmed shorter by a mechanic if the wire is too long?",
+    "options": [
+      "Because cutting the wire releases toxic gas",
+      "Because thermocouple lead harnesses are calibrated to a specific loop resistance (e.g., 8 Ohms); shortening the wire changes its resistance and causes the cockpit EGT gauge to read inaccurately",
+      "Because Chromel wire is hollow and filled with mercury",
+      "Because thermocouple wires carry 115V AC power"
+    ],
+    "answer": 1,
+    "explanation": "Thermocouples generate a tiny millivolt signal via the Seebeck effect where two dissimilar metals (Chromel and Alumel) join. In resistance-calibrated EGT circuits, cutting or splicing the lead alters loop resistance and corrupts temperature accuracy.",
+    "ata": 77,
+    "ataTitle": "Engine Indicating",
+    "difficulty": "hard",
+    "source": "DGCA / EASA CAR-66 Module 3 & ATA 77 Thermocouples",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q166",
+    "question": "In CAR-66 Module 4 (Electronic Fundamentals), how is a 'Zener Diode' connected in an aircraft voltage regulator circuit, and how does it work?",
+    "options": [
+      "Forward-biased in series to block all current",
+      "Reverse-biased across the load; once reverse voltage reaches its precise Zener Breakdown Voltage, it conducts cleanly to clamp and hold voltage constant",
+      "Connected to the antenna to amplify VHF radio waves",
+      "Used as a mechanical fuse that melts when overloaded"
+    ],
+    "answer": 1,
+    "explanation": "Unlike normal rectifier diodes that are destroyed by reverse breakdown, a Zener diode is engineered to operate in reverse bias—maintaining a rock-steady reference voltage across its terminals even as input current fluctuates.",
+    "ata": null,
+    "category": "CAR-66 Module 4: Electronic Fundamentals",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 4 Semiconductors",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q167",
+    "question": "What component do aircraft flight control actuators and landing gear proximity sensors use to convert linear mechanical movement into a proportional AC electrical signal (LVDT)?",
+    "options": [
+      "A carbon-pile resistor",
+      "A Linear Variable Differential Transformer (LVDT) with a movable ferromagnetic core sliding inside one primary and two secondary coils",
+      "A glass mercury tilt switch",
+      "A pitot tube"
+    ],
+    "answer": 1,
+    "explanation": "An LVDT uses a frictionless magnetic core attached to the actuator rod moving inside a cylindrical transformer. The phase and amplitude difference between the two secondary windings gives exact position feedback with zero mechanical contact wear.",
+    "ata": 27,
+    "ataTitle": "Flight Controls",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 4 Servomechanisms",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q168",
+    "question": "In CAR-66 Module 5 (Digital Techniques), which digital logic gate outputs a '1' (HIGH) ONLY when ALL of its inputs are '1' (HIGH)—commonly used in aircraft safety interlocks like Cargo Smoke dual-loop confirmation?",
+    "options": [
+      "OR Gate",
+      "AND Gate",
+      "XOR (Exclusive-OR) Gate",
+      "NOT Gate (Inverter)"
+    ],
+    "answer": 1,
+    "explanation": "An AND gate produces a HIGH (1) output only if Input A AND Input B are both HIGH (1). Aircraft warning computers use AND logic when two independent sensors (e.g., Loop A + Loop B) must agree before triggering an action.",
+    "ata": null,
+    "category": "CAR-66 Module 5: Digital Techniques",
+    "difficulty": "easy",
+    "source": "DGCA / EASA CAR-66 Module 5 Logic Gates",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q169",
+    "question": "What is the key architectural difference between an 'ARINC 429' data bus (used on A320/B737) and an 'ARINC 629 / AFDX' data bus (used on B777/A380/A350/B787)?",
+    "options": [
+      "ARINC 429 uses fiber-optic lasers while AFDX uses pneumatic tubes",
+      "ARINC 429 is a unidirectional (one-way) twisted-shielded pair where only ONE transmitter can talk to up to 20 receivers per wire pair, whereas ARINC 629 / AFDX are high-speed bi-directional networks",
+      "ARINC 429 can carry 115V AC power to run hydraulic pumps",
+      "AFDX only works on the ground when connected to airport Wi-Fi"
+    ],
+    "answer": 1,
+    "explanation": "ARINC 429 is a rock-solid unidirectional 32-bit bus (one talker, up to 20 listeners per twisted shielded pair—meaning two boxes talking back and forth require two separate wire pairs), while AFDX is a deterministic bi-directional switched Ethernet network.",
+    "ata": 42,
+    "ataTitle": "Integrated Modular Avionics",
+    "difficulty": "hard",
+    "source": "DGCA / EASA CAR-66 Module 5 Data Buses",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q170",
+    "question": "Why must an avionics engineer wear a grounded 'ESD Wrist Strap' (containing a 1-megaohm safety resistor) before pulling a circuit card or touching an open Line Replaceable Unit (LRU)?",
+    "options": [
+      "To keep the engineer's hands warm in the avionics bay",
+      "Because static electricity on a human body (even an unfelt 100-volt discharge) can punch through microscopic CMOS microchip gate oxides—causing immediate or latent in-flight failure",
+      "To boost the engineer's flashlight battery",
+      "To prevent the LRU from falling off the rack"
+    ],
+    "answer": 1,
+    "explanation": "Humans don't even feel an Electrostatic Discharge (ESD) below ~3,000 volts, yet sensitive avionics microchips can be degraded by as little as 20–100 volts. The wrist strap bleeds static safely to ground through a 1 M$\\Omega$ current-limiting resistor.",
+    "ata": 20,
+    "ataTitle": "Standard Practices - Airframe",
+    "difficulty": "easy",
+    "source": "DGCA / EASA CAR-66 Module 5 ESD Protection",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q171",
+    "question": "In an aircraft's 24-bit ICAO Mode S Transponder address (and computer memory), why do avionics engineers represent binary numbers in 'Hexadecimal' (Base-16, using 0–9 and A–F)?",
+    "options": [
+      "Because computers cannot read ones and zeros",
+      "Because every single Hexadecimal digit compactly represents exactly 4 binary bits (a 'nibble'), turning a clumsy 24-bit binary string into a clean 6-character code",
+      "Because Hexadecimal uses less electrical power",
+      "Because pilots only have 16 buttons on the transponder keypad"
+    ],
+    "answer": 1,
+    "explanation": "Since $2^4 = 16$, four binary bits map directly to one hexadecimal character (e.g., `1111` = `F`, `1010` = `A`). This allows a 24-bit ICAO aircraft address to be written cleanly as 6 hex characters (e.g., `800B4A`).",
+    "ata": null,
+    "category": "CAR-66 Module 5: Digital Techniques",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 5 Numbering Systems",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q172",
+    "question": "In aviation aluminum alloys (CAR-66 Module 6), what is the primary alloying element and typical use of '2024' series vs. '7075' series aluminum?",
+    "options": [
+      "2024 uses lead for ballast; 7075 uses tin for soldering",
+      "2024 is alloyed with Copper (~4.4%) for high damage-tolerance/fracture toughness (fuselage & lower wing skins), while 7075 is alloyed with Zinc (~5.6%) for maximum ultimate strength (upper wing skins & spars)",
+      "Both are 100% pure unalloyed aluminum",
+      "2024 is magnetic steel and 7075 is titanium"
+    ],
+    "answer": 1,
+    "explanation": "2000-series (Al-Copper, like 2024-T3) excels in tension and crack-growth resistance (damage-tolerant fuselage/lower wing skin), while 7000-series (Al-Zinc, like 7075-T6) provides higher compressive/ultimate strength for upper wing skins and frames.",
+    "ata": 51,
+    "ataTitle": "Standard Practices - Structures",
+    "difficulty": "hard",
+    "source": "DGCA / EASA CAR-66 Module 6 Aircraft Materials",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q173",
+    "question": "What is 'Alclad' sheet metal used on aircraft fuselage skins?",
+    "options": [
+      "Aluminum painted with black radar-absorbing paint",
+      "A high-strength alloy core (such as 2024 or 7075) sandwich-rolled with a thin surface layer of pure aluminum on both sides to protect the core against corrosion",
+      "A mixture of carbon fiber and fiberglass",
+      "Stainless steel bolts dipped in liquid nitrogen"
+    ],
+    "answer": 1,
+    "explanation": "Alloying aluminum with copper (2024) or zinc (7075) makes it strong but susceptible to intergranular corrosion. Pure aluminum is soft but highly corrosion-resistant—so bonding a thin 5% pure aluminum skin ('Alclad') onto both faces gives the best of both worlds.",
+    "ata": 51,
+    "ataTitle": "Standard Practices - Structures",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 6 Ferrous & Non-Ferrous Materials",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q174",
+    "question": "Why cannot bare Carbon-Fiber Reinforced Plastic (CFRP) composite panels be fastened directly against bare aluminum ribs using aluminum rivets without an insulating fiberglass/sealant barrier?",
+    "options": [
+      "Because aluminum rivets are too heavy for carbon fiber",
+      "Because carbon is electrically noble (cathodic) and aluminum is anodic—touching them together in moisture creates a powerful galvanic battery that rapidly corrodes and dissolves the aluminum!",
+      "Because carbon fiber melts when touched by aluminum",
+      "Because aluminum rivets are magnetic"
+    ],
+    "answer": 1,
+    "explanation": "On the galvanic series, graphite/carbon fiber sits near gold and platinum, while aluminum sits at the active anodic end. Direct contact between CFRP and aluminum causes rapid galvanic corrosion of the aluminum unless titanium/Inconel fasteners and a fiberglass barrier ply are used.",
+    "ata": 51,
+    "ataTitle": "Standard Practices - Structures",
+    "difficulty": "hard",
+    "source": "DGCA / EASA CAR-66 Module 6 Composites & Corrosion",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q175",
+    "question": "How does a 'Hi-Lok' (or Hi-Lite) structural fastener ensure the exact correct preload torque is applied to a wing or fuselage joint during installation?",
+    "options": [
+      "The mechanic counts exactly 12 turns with a hand screwdriver",
+      "Its threaded collar has a precision machined 'shear groove'—when tightened with an Allen key and socket, the hex driving hex-head snaps off automatically at the exact calibrated preload torque",
+      "It is welded in place with an oxy-acetylene torch",
+      "It uses a rubber band inside the nut"
+    ],
+    "answer": 1,
+    "explanation": "A Hi-Lok pin is held from rotating with an Allen hex key while the self-locking collar is driven down until its calibrated frangible hex nut shears off cleanly at the predetermined torque.",
+    "ata": 51,
+    "ataTitle": "Standard Practices - Structures",
+    "difficulty": "medium",
+    "source": "DGCA / EASA CAR-66 Module 6 Fasteners",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q176",
+    "question": "What does 'AOG' stand for in airline maintenance and logistics?",
+    "options": [
+      "Airbus Operations Group",
+      "Aircraft On Ground",
+      "Approved Overhaul Guide",
+      "Automated Oil Gauge"
+    ],
+    "answer": 1,
+    "explanation": "Aircraft On Ground (AOG) is the highest-priority emergency status in aviation logistics, indicating an aircraft is grounded by a technical defect and unable to fly revenue service until a part or repair arrives.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "Standard Aviation Abbreviations",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q177",
+    "question": "What does 'CAMO' stand for under EASA and DGCA regulatory frameworks?",
+    "options": [
+      "Commercial Airline Maintenance Office",
+      "Continuing Airworthiness Management Organisation",
+      "Certified Aircraft Modification Operator",
+      "Central Avionics Monitoring Output"
+    ],
+    "answer": 1,
+    "explanation": "A Continuing Airworthiness Management Organisation (CAMO) is the approved organization responsible for managing an aircraft's maintenance programme, AD/SB compliance, technical records, and airworthiness reviews.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "EASA Part-CAMO / DGCA CAR-M",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q178",
+    "question": "What does 'ARC' stand for in continuing airworthiness documentation?",
+    "options": [
+      "Aircraft Repair Checklist",
+      "Airworthiness Review Certificate",
+      "Authorized Replacement Component",
+      "Automatic Rudder Control"
+    ],
+    "answer": 1,
+    "explanation": "The Airworthiness Review Certificate (ARC, Form 15a/b/c) is the 12-month certificate validating that an aircraft's Certificate of Airworthiness remains currently valid following a records and physical audit.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "EASA Part-M / DGCA CAR-M",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q179",
+    "question": "What does 'CRS' stand for when a licensed engineer signs off a maintenance job in the Technical Log?",
+    "options": [
+      "Component Repair Sheet",
+      "Certificate of Release to Service",
+      "Cabin Readiness Status",
+      "Continuous Recording System"
+    ],
+    "answer": 1,
+    "explanation": "A Certificate of Release to Service (CRS) is the legal certification signed by appropriately authorized Part-145 / CAR-145 staff confirming that maintenance was completed in accordance with approved data.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "EASA Part-145.A.50 / DGCA CAR-145",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q180",
+    "question": "What does 'LLP' stand for in jet engine and landing gear technical records?",
+    "options": [
+      "Low Level Pressure",
+      "Life-Limited Part",
+      "Longitudinal Load Pin",
+      "Line Lubrication Procedure"
+    ],
+    "answer": 1,
+    "explanation": "A Life-Limited Part (LLP) is a critical rotor or structural part with a mandatory hard replacement limit (usually in Flight Cycles) published in the Airworthiness Limitations Section, requiring full Back-to-Birth traceability.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "EASA Part-M / Engine Airworthiness Limitations",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q181",
+    "question": "In a CAMO maintenance due list, what does 'LDND' stand for?",
+    "options": [
+      "Landing Distance Not Determined",
+      "Last Done / Next Due",
+      "Low Density Nitrogen Discharge",
+      "Line Defect Notification Document"
+    ],
+    "answer": 1,
+    "explanation": "LDND (Last Done / Next Due) is the master maintenance status tracking sheet showing when every AMP/MPD task, hard-time component, and repetitive AD was last accomplished (FH/FC/Date) and when it falls next due.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "CAMO Maintenance Planning & Technical Records",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q182",
+    "question": "In technical records, what do 'TSO' and 'CSO' stand for on an overhauled rotable component?",
+    "options": [
+      "Technical Service Order and Cabin Safety Officer",
+      "Time Since Overhaul and Cycles Since Overhaul",
+      "Total System Output and Current Switch Open",
+      "Turbine Shaft Oil and Compressor Seal Oil"
+    ],
+    "answer": 1,
+    "explanation": "While TSN/CSN measure Time and Cycles Since New (from factory birth), TSO and CSO measure the Flight Hours and Flight Cycles accumulated since the component's last zero-time shop Overhaul.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "Technical Records Component Tracking",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q183",
+    "question": "What does 'MPD' stand for in aircraft maintenance planning?",
+    "options": [
+      "Maximum Pressure Differential",
+      "Maintenance Planning Document",
+      "Main Power Distribution",
+      "Mechanical Pump Drive"
+    ],
+    "answer": 1,
+    "explanation": "Published by the airframe OEM (derived from the Maintenance Review Board Report / MRBR), the Maintenance Planning Document (MPD) provides all baseline scheduled maintenance tasks and intervals used to build an airline's AMP.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "ATA / Airbus & Boeing Maintenance Planning",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q184",
+    "question": "What does 'SRM' stand for when evaluating a fuselage skin dent?",
+    "options": [
+      "System Reset Manual",
+      "Structural Repair Manual",
+      "Safety Risk Management",
+      "Stabilizer Rigging Manual"
+    ],
+    "answer": 1,
+    "explanation": "The Structural Repair Manual (SRM) is the OEM-approved manual defining allowable structural damage limits (dents, scratches, corrosion) and standard pre-approved sheet-metal/composite repair schemes.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "ATA 51 / Structural Repair Manual",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q185",
+    "question": "What does 'CMM' stand for inside an off-aircraft component overhaul shop (and in Block 12 of an EASA Form 1)?",
+    "options": [
+      "Cabin Maintenance Manual",
+      "Component Maintenance Manual",
+      "Central Monitoring Module",
+      "Continuous Metal Measurement"
+    ],
+    "answer": 1,
+    "explanation": "While line and base mechanics working on the aircraft use the AMM (Aircraft Maintenance Manual), back-shop technicians overhauling an unbolted valve or pump on the bench must use the OEM's Component Maintenance Manual (CMM).",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "EASA Part-145 Component Maintenance",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q186",
+    "question": "What does 'LOPA' stand for in aircraft cabin engineering and transitions?",
+    "options": [
+      "Low Oil Pressure Alarm",
+      "Layout of Passenger Accommodations",
+      "Landing Overweight Performance Assessment",
+      "List of Approved Parts and Assemblies"
+    ],
+    "answer": 1,
+    "explanation": "The LOPA (Layout of Passenger Accommodations) is the certified engineering blueprint drawing of the aircraft cabin showing exact seat row pitches, seat part numbers, galleys, lavatories, and emergency equipment locations.",
+    "ata": 25,
+    "ataTitle": "Equipment/Furnishings",
+    "difficulty": "easy",
+    "source": "ATA 25 Cabin Engineering",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q187",
+    "question": "What does 'NDT' (or 'NDI') stand for in structural maintenance?",
+    "options": [
+      "Nose Door Trim",
+      "Non-Destructive Testing (or Non-Destructive Inspection)",
+      "Nitrogen Drain Tube",
+      "Normal Takeoff Distance"
+    ],
+    "answer": 1,
+    "explanation": "Non-Destructive Testing (Eddy Current, Ultrasonic, Magnetic Particle, Liquid Penetrant, Radiography) evaluates subsurface and surface flaws without harming the part's serviceability.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "NDT Manual (NTM)",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q188",
+    "question": "What does 'FOD' stand for on an airport ramp or inside a maintenance hangar?",
+    "options": [
+      "Flight Operations Director",
+      "Foreign Object Debris (or Foreign Object Damage)",
+      "Fuel Overfill Drain",
+      "Forward Overhead Door"
+    ],
+    "answer": 1,
+    "explanation": "FOD refers both to any loose object, tool, stone, or hardware that doesn't belong in the environment (Foreign Object Debris) and the resulting damage if ingested by an engine or jammed in controls (Foreign Object Damage).",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "ICAO / IATA Ramp & Hangar Safety",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q189",
+    "question": "What does 'RAT' stand for in an aircraft emergency electrical/hydraulic system?",
+    "options": [
+      "Rudder Actuator Trim",
+      "Ram Air Turbine",
+      "Radar Altimeter Transceiver",
+      "Reserve Auxiliary Tank"
+    ],
+    "answer": 1,
+    "explanation": "The Ram Air Turbine (RAT) is a small drop-down wind turbine that deploys into the slipstream to generate emergency hydraulic pressure and/or electrical power if main power sources are lost.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "ATA 24 / ATA 29 Emergency Generation",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q190",
+    "question": "What does 'BITE' stand for when troubleshooting an avionics computer fault?",
+    "options": [
+      "Brake Indicator Temperature Equipment",
+      "Built-In Test Equipment",
+      "Basic Instrument Training Exam",
+      "Battery Inverter Thermal Element"
+    ],
+    "answer": 1,
+    "explanation": "Built-In Test Equipment (BITE) refers to the automated internal fault-detection and self-diagnostic circuits/software built inside modern avionics LRUs and accessed via the cockpit MCDU/CMC.",
+    "ata": 45,
+    "ataTitle": "Central Maintenance System (CMS)",
+    "difficulty": "easy",
+    "source": "ATA 45 Onboard Maintenance System",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q191",
+    "question": "What does 'TCAS' (or 'ACAS') stand for?",
+    "options": [
+      "Turbine Cooling Air System",
+      "Traffic Alert and Collision Avoidance System (Airborne Collision Avoidance System)",
+      "Thermal Cabin Air Sensor",
+      "Takeoff Climb Attitude System"
+    ],
+    "answer": 1,
+    "explanation": "TCAS (the hardware implementation of ICAO's ACAS standard) interrogates nearby Mode S/C transponders to issue Traffic Advisories (TAs) and vertical Resolution Advisories (RAs).",
+    "ata": 34,
+    "ataTitle": "Navigation",
+    "difficulty": "easy",
+    "source": "ATA 34 Surveillance",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q192",
+    "question": "What does 'RVSM' stand for in high-altitude airspace between FL290 and FL410?",
+    "options": [
+      "Rudder Vertical Stabilizer Mechanism",
+      "Reduced Vertical Separation Minimum",
+      "Radar Velocity Speed Monitor",
+      "Regional Visual Approach Minimum"
+    ],
+    "answer": 1,
+    "explanation": "RVSM reduces required vertical separation between IFR aircraft from 2,000 feet down to 1,000 feet between 29,000 ft (FL290) and 41,000 ft (FL410) for certified aircraft with high-precision altimetry.",
+    "ata": 34,
+    "ataTitle": "Navigation",
+    "difficulty": "easy",
+    "source": "ICAO Doc 9574 RVSM",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q193",
+    "question": "What does 'ETOPS' stand for under modern ICAO and EASA definitions?",
+    "options": [
+      "Engine Thrust Over-Pressure System",
+      "Extended Diversion Time Operations (historically Extended-range Twin-engine Operational Performance Standards)",
+      "Emergency Takeoff Power Setting",
+      "Electronic Transponder Operating System"
+    ],
+    "answer": 1,
+    "explanation": "Originally coined for twin-engine overwater flights ('Engines Turn Or Passengers Swim' in pilot humor!), ETOPS stands for Extended Diversion Time Operations beyond the baseline 60-minute threshold.",
+    "ata": null,
+    "category": "Abbreviations",
+    "difficulty": "easy",
+    "source": "ICAO Annex 6 / EASA Air Ops",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q194",
+    "question": "In aircraft weight and balance, what do 'MTOW', 'MLW', and 'MZFW' stand for?",
+    "options": [
+      "Main Tyre Outer Width, Main Leg Weight, and Minimum Zone Fuel Weight",
+      "Maximum Takeoff Weight, Maximum Landing Weight, and Maximum Zero Fuel Weight",
+      "Mean Turbine Operating Wattage, Minimum Lift Weight, and Main Zone Firewall",
+      "Manual Throttle Override Wheel, Manual Landing Wheel, and Master Zero Fuel Warning"
+    ],
+    "answer": 1,
+    "explanation": "These are the three primary structural weight ceilings of an aircraft: Maximum Zero Fuel Weight (wing-root bending limit before fuel), Maximum Takeoff Weight, and Maximum Landing Weight.",
+    "ata": 8,
+    "ataTitle": "Leveling and Weighing",
+    "difficulty": "easy",
+    "source": "ATA 08 Weight and Balance",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q195",
+    "question": "On a Load and Trim Sheet, why is the Center of Gravity (CG) expressed as '% MAC' (e.g., 27% MAC), and what does MAC stand for?",
+    "options": [
+      "Maximum Air Conditioning",
+      "Mean Aerodynamic Chord—the average chord length of a tapered/swept wing, providing a universal reference scale for where the balance point sits relative to the wing's lift",
+      "Minimum Approach Climb",
+      "Main Avionics Computer"
+    ],
+    "answer": 1,
+    "explanation": "Because swept wings taper from root to tip, engineers define the Mean Aerodynamic Chord (MAC)—a reference chord representing the aerodynamic average of the whole wing—and express CG as a percentage from the leading edge of the MAC.",
+    "ata": 8,
+    "ataTitle": "Leveling and Weighing",
+    "difficulty": "medium",
+    "source": "ATA 08 / Aircraft Weight and Balance Manual",
+    "sourceUrl": "",
+    "reviewed": true
+  },
+  {
+    "id": "q196",
+    "question": "Which ATA chapter covers Indicating and Recording Systems (including cockpit displays, Flight Warning Computers, DFDR, and QAR)?",
+    "options": [
+      "ATA 23",
+      "ATA 31",
+      "ATA 34",
+      "ATA 49"
+    ],
+    "answer": 1,
+    "explanation": "ATA 31 covers Indicating and Recording Systems (EIS displays, Flight Warning Computers, clocks, Flight Data Recorders, and Quick Access Recorders).",
+    "ata": 31,
+    "ataTitle": "Indicating/Recording Systems",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q197",
+    "question": "Which ATA chapter covers Standard Practices – Airframe (including torque values, lockwiring, fluid line fittings, and EWIS electrical wiring practices)?",
+    "options": [
+      "ATA 05",
+      "ATA 12",
+      "ATA 20",
+      "ATA 51"
+    ],
+    "answer": 2,
+    "explanation": "ATA 20 covers Standard Practices – Airframe (fastener torque, safety wiring, fluid tubes, bonding, and EWIS), whereas ATA 51 covers Standard Practices – Structures (riveting, sheet metal, and corrosion).",
+    "ata": 20,
+    "ataTitle": "Standard Practices - Airframe",
+    "difficulty": "medium",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q198",
+    "question": "Which ATA chapter covers Time Limits / Maintenance Checks (including scheduled checks AND unscheduled conditional inspections like Hard Landing, Bird Strike, and Lightning Strike)?",
+    "options": [
+      "ATA 05",
+      "ATA 10",
+      "ATA 20",
+      "ATA 32"
+    ],
+    "answer": 0,
+    "explanation": "ATA 05 covers Time Limits and Maintenance Checks—including Sub-chapter 05-51 Unscheduled / Conditional Maintenance Checks after hard landings, severe turbulence, lightning strikes, or bird strikes.",
+    "ata": 5,
+    "ataTitle": "Time Limits/Maintenance Checks",
+    "difficulty": "easy",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q199",
+    "question": "Which ATA chapter covers Parking, Mooring, Storage and Return to Service (the chapter used when preserving an aircraft in a desert storage facility)?",
+    "options": [
+      "ATA 07",
+      "ATA 08",
+      "ATA 09",
+      "ATA 10"
+    ],
+    "answer": 3,
+    "explanation": "ATA 10 covers Parking, Mooring, Storage and Return to Service. (ATA 07 is Lifting/Shoring, ATA 08 is Leveling/Weighing, and ATA 09 is Towing/Taxiing.)",
+    "ata": 10,
+    "ataTitle": "Parking, Mooring, Storage and Return to Service",
+    "difficulty": "medium",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  },
+  {
+    "id": "q200",
+    "question": "Which ATA chapter covers Power Plant (the complete engine QEC package, cowlings, engine mounts, and drains) vs. ATA 72 (the internal turbine engine core & modules)?",
+    "options": [
+      "ATA 49",
+      "ATA 71",
+      "ATA 75",
+      "ATA 79"
+    ],
+    "answer": 1,
+    "explanation": "ATA 71 is Power Plant (covering the external QEC installation, fan/reverser cowlings, mounts, and engine change procedures), while ATA 72 covers the internal Turbine/Turboprop Engine modules.",
+    "ata": 71,
+    "ataTitle": "Power Plant",
+    "difficulty": "medium",
+    "source": "ATA 100 chapter list",
+    "sourceUrl": "https://en.wikipedia.org/wiki/ATA_100",
+    "reviewed": true
+  }
+]
